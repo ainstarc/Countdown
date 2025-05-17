@@ -3,20 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Counting!</title>
+    <title>Countdown!</title>
+    <meta
+      name="description"
+      content="A stylish, animated countdown timer with theme toggle and responsive design."
+    />
     <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⏳</text></svg>"
+    />
   </head>
   <body>
     <button
       id="toggle-mode"
       class="floating-toggle"
       title="Toggle dark/light mode"
+      aria-label="Toggle dark or light mode"
     >
       🌙
     </button>
     <div class="container">
-      <!-- <h1>Countdown to 29 Sep 2028</h1> -->
-      <div id="countdown">
+      <!-- <h1>Countdown to 29 September 2028</h1> -->
+      <div id="countdown" aria-live="polite">
         <div class="time-box">
           <span id="days"></span><span class="label">Days</span>
         </div>

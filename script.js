@@ -1,4 +1,3 @@
-// Sound files (use your own .mp3/.wav files or use beep via Web Audio API)
 const sounds = {
   day: new Audio(
     "https://cdn.pixabay.com/audio/2022/07/26/audio_124bfae7e7.mp3"
