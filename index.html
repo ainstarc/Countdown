@@ -1,21 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Counting!</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <button
+      id="toggle-mode"
+      class="floating-toggle"
+      title="Toggle dark/light mode"
+    >
+      🌙
+    </button>
     <div class="container">
-        <!-- <h1>Countdown to 29 Sep 2028</h1> -->
-        <div id="countdown">
-            <span id="days"></span> Days 
-            <span id="hours"></span> Hours 
-            <span id="minutes"></span> Minutes 
-            <span id="seconds"></span> Seconds
+      <!-- <h1>Countdown to 29 Sep 2028</h1> -->
+      <div id="countdown">
+        <div class="time-box">
+          <span id="days"></span><span class="label">Days</span>
         </div>
+        <div class="time-box">
+          <span id="hours"></span><span class="label">Hours</span>
+        </div>
+        <div class="time-box">
+          <span id="minutes"></span><span class="label">Minutes</span>
+        </div>
+        <div class="time-box">
+          <span id="seconds"></span><span class="label">Seconds</span>
+        </div>
+      </div>
     </div>
     <script src="script.js"></script>
-</body>
+  </body>
 </html>
