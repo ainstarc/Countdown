@@ -1,25 +1,30 @@
 # Countdown
 
-A stylish, animated countdown timer with digit-level animation, theme toggle (dark/light), and responsive design.
+A stylish, animated countdown timer with digit-level animation, theme toggle (dark/light), offline support, and responsive design.
 
 ## Features
 
 - **Animated digits:** Only the changing digits animate out and in.
 - **Heartbeat effect:** Time boxes pulse when their value changes.
 - **Dark/Light mode:** Auto-detects system preference, with manual toggle.
-- **Responsive:** Looks great on all devices.
+- **Responsive:** Looks great on all devices and adapts layout to screen shape.
 - **Theme presets:** Easily extendable for more color themes.
 - **Accessible:** ARIA attributes and keyboard navigation support.
+- **Offline support:** Works offline as a Progressive Web App (PWA).
 
 ## Usage
 
 1. Clone or download this repository.
-2. Open `index.html` in your browser.
+2. Serve the folder with a local server (recommended for offline/PWA features).
+   - Example: `npx serve .` or use the Live Server extension in VS Code.
+3. Open `index.html` in your browser.
 
 ## Customization
 
-- Change the target date in `script.js` (`const targetDate = ...`).
-- Edit styles in `styles.css` for your own color themes or effects.
+- Change the target date in `script.js`:
+  ```js
+  const targetDate = new Date("2028-09-29T00:00:00+05:30");
+  ```
 
 ## License
 
@@ -29,7 +34,3 @@ MIT
 
 ![Screenshot of Countdown Timer](screenshot.png)
 
-<script>
-// In script.js, look for:
-const targetDate = new Date("2028-09-29T00:00:00+05:30");
-</script>
