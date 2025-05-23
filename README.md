@@ -7,6 +7,7 @@ A stylish, animated countdown timer with digit-level animation, theme toggle (da
 - **Animated digits:** Only the changing digits animate out and in.
 - **Heartbeat effect:** Time boxes pulse when their value changes.
 - **Dark/Light mode:** Auto-detects system preference, with manual toggle.
+- **Audible alerts:** Plays distinct sounds for day, hour, minute, and second changes (volume adjustable).
 - **Responsive:** Looks great on all devices and adapts layout to screen shape.
 - **Theme presets:** Easily extendable for more color themes.
 - **Accessible:** ARIA attributes and keyboard navigation support.
@@ -33,4 +34,3 @@ MIT
 ## Preview
 
 ![Screenshot of Countdown Timer](screenshot.png)
-
