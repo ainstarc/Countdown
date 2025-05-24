@@ -143,19 +143,19 @@ function animateHeartbeat(id) {
 // Animates individual digits within a time unit (days, hours, etc.)
 // to provide a smooth visual update when numbers change.
 function animateDigits(id, value) {
+  // Duration for the exit animation of a digit.
+  const DIGIT_EXIT_ANIMATION_DURATION = 300; // ms
+
   const el = document.getElementById(id);
   const prevSpans = Array.from(el.querySelectorAll(".animated-digit"));
-  // Ensure the new value string is padded to match the expected number of digits.
-  const valueStr = value
-    .toString()
-    .padStart(prevSpans.length || value.length, "0");
+  const valueStr = value.toString();
 
   // Remove extra spans if new value is shorter
   while (prevSpans.length > valueStr.length) {
     const span = prevSpans.pop();
     span.classList.add("exit");
     requestAnimationFrame(() => span.classList.add("exit-active"));
-    setTimeout(() => span.remove(), 300);
+    setTimeout(() => span.remove(), DIGIT_EXIT_ANIMATION_DURATION);
   }
 
   // Iterate over each character (digit) in the new value string.
@@ -189,7 +189,7 @@ function animateDigits(id, value) {
           el.appendChild(newSpan);
         }
         requestAnimationFrame(() => newSpan.classList.add("enter-active"));
-      }, 300);
+      }, DIGIT_EXIT_ANIMATION_DURATION);
     }
     // If the digit is the same as before, do nothing and keep the existing span.
   }
