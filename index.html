@@ -27,18 +27,31 @@
     </button>
     <div class="container">
       <!-- <h1>Countdown to 29 September 2028</h1> -->
-      <div id="countdown" aria-live="polite">
-        <div class="time-box">
-          <span id="days"></span><span class="label">Days</span>
+      <div id="quote-section">
+        <div id="quote-box">
+          <blockquote id="quote">You are Inevitable</blockquote>
+          <cite id="author"></cite>
         </div>
-        <div class="time-box">
-          <span id="hours"></span><span class="label">Hours</span>
-        </div>
-        <div class="time-box">
-          <span id="minutes"></span><span class="label">Minutes</span>
-        </div>
-        <div class="time-box">
-          <span id="seconds"></span><span class="label">Seconds</span>
+      </div>
+
+      <div id="timer-section">
+        <div id="countdown" aria-live="polite">
+          <div class="time-unit">
+            <div class="digits-container"><span id="days" class="digits"></span></div>
+            <span class="label">Days</span>
+          </div>
+          <div class="time-unit">
+            <div class="digits-container"><span id="hours" class="digits"></span></div>
+            <span class="label">Hours</span>
+          </div>
+          <div class="time-unit">
+            <div class="digits-container"><span id="minutes" class="digits"></span></div>
+            <span class="label">Minutes</span>
+          </div>
+          <div class="time-unit">
+            <div class="digits-container"><span id="seconds" class="digits"></span></div>
+            <span class="label">Seconds</span>
+          </div>
         </div>
       </div>
     </div>

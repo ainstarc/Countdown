@@ -1,0 +1,11 @@
+# JetBrains IDEs
+.idea/
+*.iml
+/out/
+
+# IntelliJ
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
