@@ -1,0 +1,506 @@
+[
+  {
+    "q": "Life is about making an impact, not making an income.",
+    "a": "Kevin Kruse"
+  },
+  {
+    "q": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "a": "Napoleon Hill"
+  },
+  {
+    "q": "Strive not to be a success, but rather to be of value.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "I attribute my success to this: I never gave or took any excuse.",
+    "a": "Florence Nightingale"
+  },
+  { "q": "You miss 100% of the shots you don't take.", "a": "Wayne Gretzky" },
+  {
+    "q": "I've missed more than 9000 shots in my career. I've lost almost 300 games. I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+    "a": "Michael Jordan"
+  },
+  {
+    "q": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    "a": "Amelia Earhart"
+  },
+  {
+    "q": "Every strike brings me closer to the next home run.",
+    "a": "Babe Ruth"
+  },
+  {
+    "q": "Definiteness of purpose is the starting point of all achievement.",
+    "a": "W. Clement Stone"
+  },
+  {
+    "q": "Life isn't about getting and having, it's about giving and being.",
+    "a": "Kevin Kruse"
+  },
+  {
+    "q": "Life is what happens to you while you're busy making other plans.",
+    "a": "John Lennon"
+  },
+  { "q": "We become what we think about.", "a": "Earl Nightingale" },
+  {
+    "q": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.",
+    "a": "Mark Twain"
+  },
+  {
+    "q": "Life is 10% what happens to me and 90% of how I react to it.",
+    "a": "Charles Swindoll"
+  },
+  {
+    "q": "The most common way people give up their power is by thinking they don't have any.",
+    "a": "Alice Walker"
+  },
+  { "q": "The mind is everything. What you think you become.", "a": "Buddha" },
+  {
+    "q": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "a": "Chinese Proverb"
+  },
+  { "q": "An unexamined life is not worth living.", "a": "Socrates" },
+  { "q": "Eighty percent of success is showing up.", "a": "Woody Allen" },
+  {
+    "q": "Your time is limited, so don't waste it living someone else's life.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "Winning isn't everything, but wanting to win is.",
+    "a": "Vince Lombardi"
+  },
+  {
+    "q": "I am not a product of my circumstances. I am a product of my decisions.",
+    "a": "Stephen Covey"
+  },
+  {
+    "q": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+    "a": "Pablo Picasso"
+  },
+  {
+    "q": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "a": "Christopher Columbus"
+  },
+  {
+    "q": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "a": "Maya Angelou"
+  },
+  { "q": "Either you run the day, or the day runs you.", "a": "Jim Rohn" },
+  {
+    "q": "Whether you think you can or you think you can't, you're right.",
+    "a": "Henry Ford"
+  },
+  {
+    "q": "The two most important days in your life are the day you are born and the day you find out why.",
+    "a": "Mark Twain"
+  },
+  {
+    "q": "Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.",
+    "a": "Johann Wolfgang von Goethe"
+  },
+  { "q": "The best revenge is massive success.", "a": "Frank Sinatra" },
+  {
+    "q": "People often say that motivation doesn't last. Well, neither does bathing. That's why we recommend it daily.",
+    "a": "Zig Ziglar"
+  },
+  {
+    "q": "Life shrinks or expands in proportion to one's courage.",
+    "a": "Anaïs Nin"
+  },
+  {
+    "q": "If you hear a voice within you say 'you cannot paint,' then by all means paint and that voice will be silenced.",
+    "a": "Vincent Van Gogh"
+  },
+  {
+    "q": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+    "a": "Aristotle"
+  },
+  {
+    "q": "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.",
+    "a": "Jesus"
+  },
+  {
+    "q": "The only person you are destined to become is the person you decide to be.",
+    "a": "Ralph Waldo Emerson"
+  },
+  {
+    "q": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "a": "Henry David Thoreau"
+  },
+  {
+    "q": "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, 'I used everything you gave me.'",
+    "a": "Erma Bombeck"
+  },
+  {
+    "q": "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.",
+    "a": "Booker T. Washington"
+  },
+  {
+    "q": "Certain things catch your eye, but pursue only those that capture the heart.",
+    "a": "Ancient Indian Proverb"
+  },
+  {
+    "q": "Believe you can and you're halfway there.",
+    "a": "Theodore Roosevelt"
+  },
+  {
+    "q": "Everything you've ever wanted is on the other side of fear.",
+    "a": "George Addair"
+  },
+  {
+    "q": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "a": "Plato"
+  },
+  {
+    "q": "Teach thy tongue to say, 'I do not know,' and thou shalt progress.",
+    "a": "Maimonides"
+  },
+  {
+    "q": "Start where you are. Use what you have. Do what you can.",
+    "a": "Arthur Ashe"
+  },
+  {
+    "q": "When I was 5 years old, my mother always told me that happiness was the key to life.",
+    "a": "John Lennon"
+  },
+  { "q": "Fall seven times and stand up eight.", "a": "Japanese Proverb" },
+  { "q": "Everything has beauty, but not everyone can see.", "a": "Confucius" },
+  {
+    "q": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "a": "Anne Frank"
+  },
+  {
+    "q": "When I let go of what I am, I become what I might be.",
+    "a": "Lao Tzu"
+  },
+  {
+    "q": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Happiness is not something readymade. It comes from your own actions.",
+    "a": "Dalai Lama"
+  },
+  {
+    "q": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+    "a": "Sheryl Sandberg"
+  },
+  {
+    "q": "First, have a definite, clear practical ideal; a goal, an objective.",
+    "a": "Aristotle"
+  },
+  {
+    "q": "If the wind will not serve, take to the oars.",
+    "a": "Latin Proverb"
+  },
+  {
+    "q": "You can't fall if you don't climb. But there's no joy in living your whole life on the ground.",
+    "a": "Unknown"
+  },
+  {
+    "q": "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
+    "a": "Marie Curie"
+  },
+  {
+    "q": "Too many of us are not living our dreams because we are living our fears.",
+    "a": "Les Brown"
+  },
+  {
+    "q": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+    "a": "Joshua J. Marine"
+  },
+  {
+    "q": "If you want to lift yourself up, lift up someone else.",
+    "a": "Booker T. Washington"
+  },
+  {
+    "q": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+    "a": "Leonardo da Vinci"
+  },
+  {
+    "q": "You take your life in your own hands, and what happens? A terrible thing, no one to blame.",
+    "a": "Erica Jong"
+  },
+  {
+    "q": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+    "a": "Bob Dylan"
+  },
+  {
+    "q": "I didn't fail the test. I just found 100 ways to do it wrong.",
+    "a": "Benjamin Franklin"
+  },
+  {
+    "q": "A person who never made a mistake never tried anything new.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "The person who says it cannot be done should not interrupt the person who is doing it.",
+    "a": "Chinese Proverb"
+  },
+  {
+    "q": "There are no traffic jams along the extra mile.",
+    "a": "Roger Staubach"
+  },
+  {
+    "q": "It is never too late to be what you might have been.",
+    "a": "George Eliot"
+  },
+  { "q": "You become what you believe.", "a": "Oprah Winfrey" },
+  {
+    "q": "I would rather die of passion than of boredom.",
+    "a": "Vincent Van Gogh"
+  },
+  {
+    "q": "A truly rich man is one whose children run into his arms when his hands are empty.",
+    "a": "Unknown"
+  },
+  {
+    "q": "It is not what you do for your children, but what you have taught them to do for themselves.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    "a": "James Cameron"
+  },
+  {
+    "q": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "a": "Franklin D. Roosevelt"
+  },
+  { "q": "Creativity is intelligence having fun.", "a": "Albert Einstein" },
+  {
+    "q": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "a": "Ralph Waldo Emerson"
+  },
+  {
+    "q": "You must do the things you think you cannot do.",
+    "a": "Eleanor Roosevelt"
+  },
+  {
+    "q": "The future belongs to those who believe in the beauty of their dreams.",
+    "a": "Eleanor Roosevelt"
+  },
+  {
+    "q": "It does not matter how slowly you go as long as you do not stop.",
+    "a": "Confucius"
+  },
+  { "q": "Dream big and dare to fail.", "a": "Norman Vaughan" },
+  {
+    "q": "Our lives begin to end the day we become silent about things that matter.",
+    "a": "Martin Luther King Jr."
+  },
+  {
+    "q": "Do what you can, with what you have, where you are.",
+    "a": "Theodore Roosevelt"
+  },
+  {
+    "q": "You are never too old to set another goal or to dream a new dream.",
+    "a": "C.S. Lewis"
+  },
+  {
+    "q": "Act as if what you do makes a difference. It does.",
+    "a": "William James"
+  },
+  {
+    "q": "Success usually comes to those who are too busy to be looking for it.",
+    "a": "Henry David Thoreau"
+  },
+  { "q": "Opportunities don't happen, you create them.", "a": "Chris Grosser" },
+  {
+    "q": "Don't watch the clock; do what it does. Keep going.",
+    "a": "Sam Levenson"
+  },
+  {
+    "q": "You may be disappointed if you fail, but you are doomed if you don't try.",
+    "a": "Beverly Sills"
+  },
+  {
+    "q": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "a": "Albert Schweitzer"
+  },
+  {
+    "q": "The best way to predict the future is to create it.",
+    "a": "Peter Drucker"
+  },
+  {
+    "q": "You only live once, but if you do it right, once is enough.",
+    "a": "Mae West"
+  },
+  { "q": "The purpose of our lives is to be happy.", "a": "Dalai Lama" },
+  { "q": "Get busy living or get busy dying.", "a": "Stephen King" },
+  {
+    "q": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "a": "Christian D. Larson"
+  },
+  {
+    "q": "The only impossible journey is the one you never begin.",
+    "a": "Tony Robbins"
+  },
+  {
+    "q": "You must be the change you wish to see in the world.",
+    "a": "Mahatma Gandhi"
+  },
+  {
+    "q": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "a": "Roy T. Bennett"
+  },
+  {
+    "q": "The only way to do great work is to love what you do.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "The best revenge is to be unlike him who performed the injury.",
+    "a": "Marcus Aurelius"
+  },
+  {
+    "q": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "What we fear doing most is usually what we most need to do.",
+    "a": "Tim Ferriss"
+  },
+  {
+    "q": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+    "a": "A.A. Milne"
+  },
+  {
+    "q": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "The future belongs to those who prepare for it today.",
+    "a": "Malcolm X"
+  },
+  { "q": "Don't count the days, make the days count.", "a": "Muhammad Ali" },
+  {
+    "q": "The only place where success comes before work is in the dictionary.",
+    "a": "Vidal Sassoon"
+  },
+  {
+    "q": "Success is not the absence of failure; it's the persistence through failure.",
+    "a": "Aisha Tyler"
+  },
+  {
+    "q": "The way to get started is to quit talking and begin doing.",
+    "a": "Walt Disney"
+  },
+  {
+    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
+    "a": "Michelle Obama"
+  },
+  {
+    "q": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "a": "Roy T. Bennett"
+  },
+  {
+    "q": "Success is not about being the best. It's about always getting better.",
+    "a": "Behdad Sami"
+  },
+  {
+    "q": "The only way to achieve the impossible is to believe it is possible.",
+    "a": "Charles Kingsleigh"
+  },
+  {
+    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.",
+    "a": "Orison Swett Marden"
+  },
+  {
+    "q": "Success is not about being perfect. It's about making progress.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "a": "Albert Schweitzer"
+  },
+  {
+    "q": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "a": "Roy T. Bennett"
+  },
+  {
+    "q": "Success is not in what you have, but who you are.",
+    "a": "Bo Bennett"
+  },
+  {
+    "q": "Success is not about what you have, but what you give.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
+    "a": "Michelle Obama"
+  },
+  {
+    "q": "Success is not about being the best. It's about always getting better.",
+    "a": "Behdad Sami"
+  },
+  {
+    "q": "Success is not about being perfect. It's about making progress.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.",
+    "a": "Orison Swett Marden"
+  },
+  {
+    "q": "Success is not about being perfect. It's about making progress.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
+    "a": "Michelle Obama"
+  },
+  {
+    "q": "Success is not about being the best. It's about always getting better.",
+    "a": "Behdad Sami"
+  },
+  {
+    "q": "Success is not about being perfect. It's about making progress.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.",
+    "a": "Orison Swett Marden"
+  },
+  {
+    "q": "Success is not about being perfect. It's about making progress.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
+    "a": "Michelle Obama"
+  },
+  {
+    "q": "Success is not about being the best. It's about always getting better.",
+    "a": "Behdad Sami"
+  },
+  {
+    "q": "Success is not about being perfect. It's about making progress.",
+    "a": "Unknown"
+  },
+  {
+    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
+    "a": "Unknown"
+  }
+]

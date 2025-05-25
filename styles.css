@@ -1,131 +1,195 @@
 /* Google Fonts Import */
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap");
 
+:root {
+  --toggle-x: 1.2rem;        /* Customize as needed */
+  --toggle-y: 1.2rem;        /* Customize as needed */
+  --transition-bg: 0.3s;     /* For background transitions */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Orbitron", Arial, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  height: 100vh; /* Ensure body takes full viewport height */
   margin: 0;
   background: linear-gradient(135deg, #0f2027, #2c5364, #36454f);
-  box-sizing: border-box;
+  color: #e0e0e0; /* Default light text color for dark background */
+  overflow: hidden; /* Prevent body from scrolling */
+  transition: background 1.5s, color 1.5s;
 }
 
 .container {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
   background: rgba(54, 69, 79, 0.95);
-  padding: 5vw 3vw;
+  padding: 20px;
   border-radius: 20px;
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   width: 75vw;
+  max-width: 1500px; /* Cap maximum width */
   min-width: 260px;
-  max-height: 90vh;
-  overflow: auto;
-  font-size: clamp(1rem, 2vw, 1.2rem);
-  margin: 0 auto;
+  height: 90vh; /* Define a height for flex children to proportion against */
+  max-height: 850px; /* Cap maximum height */
+  font-size: clamp(1rem, 2vw, 1.3rem); /* Slightly increased max base font size */
+  transition: background 1.5s, color 1.5s;
 }
 
-h1 {
-  margin-bottom: 20px;
-  font-size: clamp(1.5em, 5vw, 2.5em);
+/* Sections Layout */
+#quote-section {
+  flex: 3; /* Approx 30% height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: auto; /* Scroll for long quotes */
+  min-height: 0; /* Crucial for flex children that might overflow */
+  padding: 1em 0.5em; /* Added horizontal padding */
+  text-align: center;
 }
 
-#countdown {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.5em;
-  margin-top: 1em;
-  justify-items: center;
+#timer-section {
+  flex: 7; /* Approx 70% height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 0; /* Crucial for flex children */
+  width: 100%; /* Ensure it takes full width of its flex allocation */
+}
+
+h1 { /* Assuming you might have an h1 for a title */
+  margin-bottom: 15px; /* Adjusted margin */
+  font-size: clamp(1.5em, 4vw, 2.2em); /* Adjusted clamp values */
+  text-align: center;
+}
+
+/* Quote Styles */
+#quote-box {
+  margin: 1em auto; /* Adjusted margin */
+  max-width: 95%; /* Allow it to use more width within its section */
   width: 100%;
 }
 
-.time-box {
+#quote {
+  /* Adjusted clamp for better fit in 30% height */
+  font-size: clamp(1em, 2.8vh, 1.9em);
+  font-style: italic;
+  margin-bottom: 0.5em; /* Reduced margin */
+  color: #f0f0f0;
+  display: block;
+  line-height: 1.35; /* Slightly adjusted line height */
+}
+
+#author {
+  /* Adjusted clamp for better fit */
+  font-size: clamp(0.8em, 2.2vh, 1.3em);
+  color: #b0b0b0;
+  display: block;
+  margin-top: 0.3em; /* Reduced margin */
+}
+
+/* Countdown Timer Styles */
+#countdown {
+  display: grid;
+  /* Default: 4 columns for wider screens */
+  grid-template-columns: repeat(4, 1fr);
+  gap: clamp(10px, 1.5vw, 15px); /* Responsive gap */
+  margin-top: 1em;
+  justify-items: center;
+  width: 90%; /* Max width of the countdown grid */
+  max-width: 600px; /* Absolute max width */
+}
+
+.time-unit {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   background: rgba(0, 43, 54, 0.8);
-  border-radius: 12px;
-  padding: 1.2em 0.5em;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px; /* Slightly smaller radius */
+  /* Responsive padding */
+  padding: clamp(0.6em, 1.5vh, 1em) clamp(0.3em, 0.8vw, 0.6em);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25); /* Adjusted shadow */
   color: #e5f4e3;
-  font-size: clamp(1.2em, 4vw, 2.2em);
   transition: background 1.5s, color 1.5s, transform 0.2s;
-  width: 90%;
-  min-width: 120px;
+  width: 100%; /* Let grid control width */
+  /* min-width: 100px; /* Adjusted min-width, grid handles this well */
+}
+
+.digits { /* Added class for the number spans */
+  font-size: clamp(1.5em, 4.5vh, 3.5em); /* Responsive font size for digits */
+  font-weight: 700; /* Orbitron bold */
+  line-height: 1;
+  display: block; /* Ensure it takes its own line if needed */
+  white-space: nowrap; /* Prevent digits from wrapping to a new line */
 }
 
 .label {
   display: block;
-  font-size: 0.7em;
+  font-size: clamp(0.6em, 1.5vh, 0.85em); /* Responsive font size for labels */
   color: #b2dfdb;
-  margin-top: 0.3em;
-  letter-spacing: 1px;
+  margin-top: 0.4em; /* Adjusted margin */
+  letter-spacing: 0.5px; /* Reduced letter spacing */
+  text-transform: uppercase;
 }
 
-/* Responsive adjustments */
-@media (max-width: 600px) {
-  .container {
-    width: 98vw;
-    max-width: 98vw;
-    padding: 4vw 2vw;
-    max-height: 98vh;
-    overflow: auto;
-  }
-  #countdown {
-    /* display: flex; */
-    flex-direction: column;
-    gap: 0.5em;
-    align-items: center;
-    width: 100%;
-  }
-  h1 {
-    font-size: 1.5em;
-  }
-  .time-box {
-    width: auto;
-    min-width: 80px;
-    max-width: 98vw;
-  }
-}
-
-@media (max-width: 700px) {
-  .container {
-    width: 95vw;
-    min-width: 0;
-    max-width: 98vw;
-    padding: 4vw 2vw;
-  }
-  #countdown {
-    grid-template-columns: 1fr;
-    gap: 1em;
-  }
-  .time-box {
-    width: 100%;
-    min-width: 0;
-    max-width: 100vw;
-  }
-}
-
-/* Theme and mode styles */
+/* Theme and Mode Styles */
 body.light-mode {
   background: linear-gradient(135deg, #f8fafc, #e0eafc, #f5f7fa);
   color: #222;
 }
+
 body.light-mode .container {
   background: rgba(255, 255, 255, 0.95);
   color: #222;
 }
-body.theme-blue .time-box {
+
+body.light-mode #quote {
+  color: #333;
+}
+
+body.light-mode #author {
+  color: #555;
+}
+
+body.light-mode .time-unit {
+  background: rgba(227, 242, 253, 0.9);
+  color: #1e3a8a;
+}
+
+body.light-mode .label {
+  color: #303f9f;
+}
+
+/* Accent Theme Colors for Time Units */
+body.theme-blue .time-unit {
   background: #1976d2;
+  color: #fff;
 }
-body.theme-green .time-box {
+body.theme-blue .time-unit .label { color: #e3f2fd; }
+
+body.theme-green .time-unit {
   background: #388e3c;
+  color: #fff;
 }
-body.theme-pink .time-box {
+body.theme-green .time-unit .label { color: #e8f5e9; }
+
+body.theme-pink .time-unit {
   background: #d81b60;
+  color: #fff;
 }
+body.theme-pink .time-unit .label { color: #fce4ec; }
+
+
+/* Floating Toggle Button */
 .floating-toggle {
   position: fixed;
   top: 2vw;
@@ -162,14 +226,10 @@ body.light-mode .floating-toggle:hover {
   color: #388e3c;
 }
 
-body,
-.container {
-  transition: background 1.5s, color 1.5s;
-}
-
+/* Theme Transition Animation */
 body.theme-transition {
   position: relative;
-  overflow: hidden;
+  overflow: hidden; /* Should already be on body, but ensure it's here for the pseudo-element */
 }
 
 body.theme-transition::after {
@@ -181,76 +241,167 @@ body.theme-transition::after {
   height: 0;
   border-radius: 50%;
   pointer-events: none;
-  z-index: 1; /* Lower than .container */
-  background: var(--transition-bg, #fff);
+  z-index: 1; /* Lower than .container and .floating-toggle */
+  background: var(--transition-bg-color, #fff);
   animation: theme-radial 1.5s forwards;
-  opacity: 1;
+  opacity: 1; /* Start with opacity 1 to ensure it's visible during animation */
 }
 
 @keyframes theme-radial {
   to {
-    width: 300vw;
+    width: 300vw; /* Ensure it covers the whole screen */
     height: 300vw;
-    margin-left: -150vw;
+    margin-left: -150vw; /* Center the expansion */
     margin-top: -150vw;
-    opacity: 1;
+    opacity: 1; /* Keep opacity 1, the effect is the expansion */
   }
 }
 
+/* Heartbeat Animation for Timer */
 @keyframes heartbeat {
-  0% {
-    transform: scale(1);
-  }
-  20% {
-    transform: scale(1.18);
-  }
-  40% {
-    transform: scale(0.95);
-  }
-  60% {
-    transform: scale(1.08);
-  }
-  80% {
-    transform: scale(0.98);
-  }
-  100% {
-    transform: scale(1);
-  }
+  0% { transform: scale(1); }
+  20% { transform: scale(1.18); }
+  40% { transform: scale(0.95); }
+  60% { transform: scale(1.08); }
+  80% { transform: scale(0.98); }
+  100% { transform: scale(1); }
 }
 
-.time-box.heartbeat {
+.time-unit.heartbeat {
   animation: heartbeat 0.5s;
 }
 
+/* Digit Animation (if used) */
 .animated-digit {
   display: inline-block;
   transition: transform 0.3s, opacity 0.3s;
   will-change: transform, opacity;
 }
-.animated-digit.enter {
-  opacity: 0;
-  transform: translateY(1em);
-}
-.animated-digit.enter-active {
-  opacity: 1;
-  transform: translateY(0);
-}
-.animated-digit.exit {
-  opacity: 1;
-  transform: translateY(0);
-}
-.animated-digit.exit-active {
-  opacity: 0;
-  transform: translateY(-1em);
+.animated-digit.enter { opacity: 0; transform: translateY(1em); }
+.animated-digit.enter-active { opacity: 1; transform: translateY(0); }
+.animated-digit.exit { opacity: 1; transform: translateY(0); }
+.animated-digit.exit-active { opacity: 0; transform: translateY(-1em); }
+
+
+/* Responsive Adjustments */
+
+/* Medium screens (tablets) - 2x2 timer layout */
+@media (max-width: 768px) {
+  .container {
+    width: 90vw;
+    height: 92vh; /* Slightly more height */
+    padding: 15px;
+  }
+
+  #quote { font-size: clamp(0.9em, 2.5vh, 1.7em); }
+  #author { font-size: clamp(0.75em, 2vh, 1.2em); }
+
+  #countdown {
+    grid-template-columns: repeat(2, 1fr); /* 2x2 layout */
+    gap: clamp(10px, 2vw, 15px);
+    width: 85%;
+    max-width: 450px;
+  }
+
+  .digits { font-size: clamp(1.4em, 4vh, 3em); }
+  .label { font-size: clamp(0.55em, 1.3vh, 0.8em); }
+
+  .floating-toggle {
+    width: 44px;
+    height: 44px;
+    font-size: 1.5em;
+  }
 }
 
-@media (max-width: 600px) {
+/* Small screens (mobiles) - 1x4 timer layout (stacked) or 2x2 */
+@media (max-width: 480px) {
+  .container {
+    width: 95vw;
+    height: 95vh; /* Even more relative height */
+    padding: 10px;
+    border-radius: 15px;
+  }
+
+  #quote-section {
+     flex: 3.5; /* Slightly more relative space for quote on very small screens */
+     padding: 0.5em;
+  }
+  #timer-section {
+     flex: 6.5;
+  }
+
+  #quote { font-size: clamp(0.85em, 2.3vh, 1.6em); line-height: 1.3; }
+  #author { font-size: clamp(0.7em, 1.9vh, 1.1em); }
+
+  #countdown {
+    /* Option 1: Stacked 1x4 */
+    /* grid-template-columns: 1fr; */
+    /* width: 70%; */
+    /* max-width: 250px; */
+
+    /* Option 2: Keep 2x2 if preferred for very small screens */
+    grid-template-columns: repeat(2, 1fr);
+    width: 90%; /* Use more width if 2x2 */
+    max-width: 320px; /* Limit max width for 2x2 on small screens */
+    gap: clamp(8px, 1.5vw, 12px);
+  }
+
+  .digits { font-size: clamp(1.2em, 3.5vh, 2.8em); }
+  .label { font-size: clamp(0.5em, 1.2vh, 0.75em); }
+  .time-unit {
+    padding: clamp(0.5em, 1.2vh, 0.8em) clamp(0.2em, 0.5vw, 0.4em);
+    border-radius: 8px;
+  }
+
   .floating-toggle {
-    top: 12px;
-    right: 12px;
-    width: 56px;
+    top: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    font-size: 1.3em;
+  }
+}
+
+/* Styles for larger screens (e.g., Full HD laptops and 4K displays) */
+@media (min-width: 1920px) {
+  .container {
+    /* Allow container to be slightly larger if viewport supports it, up to a new max */
+    max-width: 1800px;
+    max-height: 950px;
+    font-size: clamp(1.1rem, 1.5vw, 1.6rem); /* Increase base font size for better scaling */
+    padding: 30px;
+  }
+
+  #quote {
+    font-size: clamp(1.2em, 3vh, 2.5em); /* Allow quote text to be larger */
+  }
+
+  #author {
+    font-size: clamp(1em, 2.5vh, 1.8em); /* Allow author text to be larger */
+  }
+
+  #countdown {
+    max-width: 1100px; /* Allow countdown grid to be significantly wider */
+    gap: clamp(15px, 2vw, 25px); /* Increase gap between time units */
+  }
+
+  .time-unit {
+    /* Increase vertical padding to make units taller */
+    padding: clamp(1em, 2.5vh, 2em) clamp(0.5em, 1vw, 1em);
+  }
+
+  .digits {
+    /* Adjust clamp for larger, non-wrapping digits */
+    font-size: clamp(2.5em, 5vh, 5.5em); 
+  }
+
+  .label {
+    font-size: clamp(0.8em, 2vh, 1.2em); /* Allow labels to be larger */
+  }
+
+  .floating-toggle {
+    width: 56px; /* Larger toggle button */
     height: 56px;
     font-size: 2em;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
   }
 }

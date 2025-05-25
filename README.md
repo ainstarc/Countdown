@@ -1,10 +1,11 @@
 # Countdown
 
-A stylish, animated countdown timer with digit-level animation, theme toggle (dark/light), offline support, and responsive design.
+A stylish, animated countdown timer featuring dynamic digit animations, automatic inspirational quotes, theme toggling (dark/light), offline PWA support, and a highly responsive design.
 
 ## Features
 
 - **Animated digits:** Only the changing digits animate out and in.
+- **Automatic Quotes:** Displays inspirational quotes that update automatically at a set interval.
 - **Heartbeat effect:** Time boxes pulse when their value changes.
 - **Dark/Light mode:** Auto-detects system preference, with manual toggle.
 - **Audible alerts:** Plays distinct sounds for day, hour, minute, and second changes (volume adjustable).
