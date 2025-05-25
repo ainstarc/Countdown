@@ -1,7 +1,7 @@
 // Defines the cache name for this version of the service worker.
 // Incrementing the version (e.g., "countdown-cache-v2") will trigger the 'activate' event
 // for new service workers, allowing old caches to be cleared.
-const CACHE_NAME = "countdown-cache-v1";
+const CACHE_NAME = "countdown-cache-v0.5.0";
 
 // A list of essential files to be cached for offline access.
 const FILES_TO_CACHE = [
@@ -13,6 +13,7 @@ const FILES_TO_CACHE = [
   "./sounds/hour-change.mp3", // Audio asset.
   "./sounds/minute-change.mp3", // Audio asset.
   "./sounds/second-tick.mp3", // Audio asset.
+  "./quotes.json" // JSON file containing quotes.
 ];
 
 // 'install' event: Fired when the service worker is first registered or a new version is detected.
