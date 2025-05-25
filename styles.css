@@ -2,9 +2,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap");
 
 :root {
-  --toggle-x: 1.2rem;        /* Customize as needed */
-  --toggle-y: 1.2rem;        /* Customize as needed */
-  --transition-bg: 0.3s;     /* For background transitions */
+  --toggle-x: 1.2rem; /* Customize as needed */
+  --toggle-y: 1.2rem; /* Customize as needed */
+  --theme-transition-duration: 0.3s; /* For theme-related transitions */
+  --accent-color-default: #ffe066; /* Default accent for dark mode / general use */
+  --accent-color: var(
+    --accent-color-default
+  ); /* Actual accent color to be used */
 }
 
 *,
@@ -38,7 +42,11 @@ body {
   min-width: 260px;
   height: 90vh; /* Define a height for flex children to proportion against */
   max-height: 850px; /* Cap maximum height */
-  font-size: clamp(1rem, 2vw, 1.3rem); /* Slightly increased max base font size */
+  font-size: clamp(
+    1rem,
+    2vw,
+    1.3rem
+  ); /* Slightly increased max base font size */
   transition: background 1.5s, color 1.5s;
 }
 
@@ -65,7 +73,8 @@ body {
   width: 100%; /* Ensure it takes full width of its flex allocation */
 }
 
-h1 { /* Assuming you might have an h1 for a title */
+h1 {
+  /* Assuming you might have an h1 for a title */
   margin-bottom: 15px; /* Adjusted margin */
   font-size: clamp(1.5em, 4vw, 2.2em); /* Adjusted clamp values */
   text-align: center;
@@ -80,11 +89,14 @@ h1 { /* Assuming you might have an h1 for a title */
 
 #quote {
   /* Adjusted clamp for better fit in 30% height */
-  font-size: clamp(1em, 2.8vh, 1.9em);
+  font-size: clamp(
+    1em,
+    3.2vh,
+    2.3em
+  ); /* Increased preferred (vh) and max (em) values */
   font-style: italic;
   margin-bottom: 0.5em; /* Reduced margin */
   color: #f0f0f0;
-  display: block;
   line-height: 1.35; /* Slightly adjusted line height */
 }
 
@@ -92,7 +104,6 @@ h1 { /* Assuming you might have an h1 for a title */
   /* Adjusted clamp for better fit */
   font-size: clamp(0.8em, 2.2vh, 1.3em);
   color: #b0b0b0;
-  display: block;
   margin-top: 0.3em; /* Reduced margin */
 }
 
@@ -124,11 +135,11 @@ h1 { /* Assuming you might have an h1 for a title */
   /* min-width: 100px; /* Adjusted min-width, grid handles this well */
 }
 
-.digits { /* Added class for the number spans */
+.digits {
+  /* Added class for the number spans */
   font-size: clamp(1.5em, 4.5vh, 3.5em); /* Responsive font size for digits */
   font-weight: 700; /* Orbitron bold */
   line-height: 1;
-  display: block; /* Ensure it takes its own line if needed */
   white-space: nowrap; /* Prevent digits from wrapping to a new line */
 }
 
@@ -136,7 +147,6 @@ h1 { /* Assuming you might have an h1 for a title */
   display: block;
   font-size: clamp(0.6em, 1.5vh, 0.85em); /* Responsive font size for labels */
   color: #b2dfdb;
-  margin-top: 0.4em; /* Adjusted margin */
   letter-spacing: 0.5px; /* Reduced letter spacing */
   text-transform: uppercase;
 }
@@ -145,6 +155,7 @@ h1 { /* Assuming you might have an h1 for a title */
 body.light-mode {
   background: linear-gradient(135deg, #f8fafc, #e0eafc, #f5f7fa);
   color: #222;
+  --accent-color: #1976d2; /* Accent color for light mode */
 }
 
 body.light-mode .container {
@@ -174,30 +185,44 @@ body.theme-blue .time-unit {
   background: #1976d2;
   color: #fff;
 }
-body.theme-blue .time-unit .label { color: #e3f2fd; }
+body.theme-blue .time-unit .label {
+  color: #e3f2fd;
+}
+body.theme-blue {
+  --accent-color: #64b5f6;
+} /* Lighter blue for highlight if main is dark blue */
 
 body.theme-green .time-unit {
   background: #388e3c;
   color: #fff;
 }
-body.theme-green .time-unit .label { color: #e8f5e9; }
+body.theme-green .time-unit .label {
+  color: #e8f5e9;
+}
+body.theme-green {
+  --accent-color: #81c784;
+} /* Lighter green for highlight */
 
 body.theme-pink .time-unit {
   background: #d81b60;
   color: #fff;
 }
-body.theme-pink .time-unit .label { color: #fce4ec; }
-
+body.theme-pink .time-unit .label {
+  color: #fce4ec;
+}
+body.theme-pink {
+  --accent-color: #f06292;
+} /* Lighter pink for highlight */
 
 /* Floating Toggle Button */
 .floating-toggle {
   position: fixed;
+  border-radius: 50%; /* Makes it perfectly round if width and height are equal */
   top: 2vw;
   right: 2vw;
   z-index: 100;
   width: 48px;
   height: 48px;
-  border-radius: 50%;
   border: none;
   background: rgba(54, 69, 79, 0.95);
   color: #ffe066;
@@ -207,7 +232,9 @@ body.theme-pink .time-unit .label { color: #fce4ec; }
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  transition: background var(--theme-transition-duration),
+    color var(--theme-transition-duration),
+    box-shadow var(--theme-transition-duration);
 }
 
 .floating-toggle:hover {
@@ -218,12 +245,12 @@ body.theme-pink .time-unit .label { color: #fce4ec; }
 
 body.light-mode .floating-toggle {
   background: #fff;
-  color: #1976d2;
+  color: var(--accent-color); /* Use the current accent color for the icon */
 }
 
 body.light-mode .floating-toggle:hover {
   background: #e0eafc;
-  color: #388e3c;
+  color: #388e3c; /* Or another hover accent */
 }
 
 /* Theme Transition Animation */
@@ -259,12 +286,24 @@ body.theme-transition::after {
 
 /* Heartbeat Animation for Timer */
 @keyframes heartbeat {
-  0% { transform: scale(1); }
-  20% { transform: scale(1.18); }
-  40% { transform: scale(0.95); }
-  60% { transform: scale(1.08); }
-  80% { transform: scale(0.98); }
-  100% { transform: scale(1); }
+  0% {
+    transform: scale(1);
+  }
+  20% {
+    transform: scale(1.18);
+  }
+  40% {
+    transform: scale(0.95);
+  }
+  60% {
+    transform: scale(1.08);
+  }
+  80% {
+    transform: scale(0.98);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 .time-unit.heartbeat {
@@ -277,11 +316,22 @@ body.theme-transition::after {
   transition: transform 0.3s, opacity 0.3s;
   will-change: transform, opacity;
 }
-.animated-digit.enter { opacity: 0; transform: translateY(1em); }
-.animated-digit.enter-active { opacity: 1; transform: translateY(0); }
-.animated-digit.exit { opacity: 1; transform: translateY(0); }
-.animated-digit.exit-active { opacity: 0; transform: translateY(-1em); }
-
+.animated-digit.enter {
+  opacity: 0;
+  transform: translateY(1em);
+}
+.animated-digit.enter-active {
+  opacity: 1;
+  transform: translateY(0);
+}
+.animated-digit.exit {
+  opacity: 1;
+  transform: translateY(0);
+}
+.animated-digit.exit-active {
+  opacity: 0;
+  transform: translateY(-1em);
+}
 
 /* Responsive Adjustments */
 
@@ -293,8 +343,12 @@ body.theme-transition::after {
     padding: 15px;
   }
 
-  #quote { font-size: clamp(0.9em, 2.5vh, 1.7em); }
-  #author { font-size: clamp(0.75em, 2vh, 1.2em); }
+  #quote {
+    font-size: clamp(0.9em, 2.5vh, 1.7em);
+  }
+  #author {
+    font-size: clamp(0.75em, 2vh, 1.2em);
+  }
 
   #countdown {
     grid-template-columns: repeat(2, 1fr); /* 2x2 layout */
@@ -303,8 +357,12 @@ body.theme-transition::after {
     max-width: 450px;
   }
 
-  .digits { font-size: clamp(1.4em, 4vh, 3em); }
-  .label { font-size: clamp(0.55em, 1.3vh, 0.8em); }
+  .digits {
+    font-size: clamp(1.4em, 4vh, 3em);
+  }
+  .label {
+    font-size: clamp(0.55em, 1.3vh, 0.8em);
+  }
 
   .floating-toggle {
     width: 44px;
@@ -323,15 +381,20 @@ body.theme-transition::after {
   }
 
   #quote-section {
-     flex: 3.5; /* Slightly more relative space for quote on very small screens */
-     padding: 0.5em;
+    flex: 3.5; /* Slightly more relative space for quote on very small screens */
+    padding: 0.5em;
   }
   #timer-section {
-     flex: 6.5;
+    flex: 6.5;
   }
 
-  #quote { font-size: clamp(0.85em, 2.3vh, 1.6em); line-height: 1.3; }
-  #author { font-size: clamp(0.7em, 1.9vh, 1.1em); }
+  #quote {
+    font-size: clamp(0.85em, 2.3vh, 1.6em);
+    line-height: 1.3;
+  }
+  #author {
+    font-size: clamp(0.7em, 1.9vh, 1.1em);
+  }
 
   #countdown {
     /* Option 1: Stacked 1x4 */
@@ -346,8 +409,12 @@ body.theme-transition::after {
     gap: clamp(8px, 1.5vw, 12px);
   }
 
-  .digits { font-size: clamp(1.2em, 3.5vh, 2.8em); }
-  .label { font-size: clamp(0.5em, 1.2vh, 0.75em); }
+  .digits {
+    font-size: clamp(1.2em, 3.5vh, 2.8em);
+  }
+  .label {
+    font-size: clamp(0.5em, 1.2vh, 0.75em);
+  }
   .time-unit {
     padding: clamp(0.5em, 1.2vh, 0.8em) clamp(0.2em, 0.5vw, 0.4em);
     border-radius: 8px;
@@ -368,12 +435,20 @@ body.theme-transition::after {
     /* Allow container to be slightly larger if viewport supports it, up to a new max */
     max-width: 1800px;
     max-height: 950px;
-    font-size: clamp(1.1rem, 1.5vw, 1.6rem); /* Increase base font size for better scaling */
+    font-size: clamp(
+      1.1rem,
+      1.5vw,
+      1.6rem
+    ); /* Increase base font size for better scaling */
     padding: 30px;
   }
 
   #quote {
-    font-size: clamp(1.2em, 3vh, 2.5em); /* Allow quote text to be larger */
+    font-size: clamp(
+      1.2em,
+      3.8vh,
+      3em
+    ); /* Increased preferred (vh) and max (em) values for larger screens */
   }
 
   #author {
@@ -392,7 +467,7 @@ body.theme-transition::after {
 
   .digits {
     /* Adjust clamp for larger, non-wrapping digits */
-    font-size: clamp(2.5em, 5vh, 5.5em); 
+    font-size: clamp(2.5em, 5vh, 5.5em);
   }
 
   .label {
@@ -404,4 +479,12 @@ body.theme-transition::after {
     height: 56px;
     font-size: 2em;
   }
+}
+
+.highlighted-word {
+  font-weight: bolder;
+  color: var(
+    --accent-color
+  ); /* Uses the existing accent color for theme consistency */
+  text-transform: uppercase; /* Optional: if you want highlighted words to be uppercase */
 }

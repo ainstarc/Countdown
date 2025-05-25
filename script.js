@@ -12,8 +12,8 @@ let quotesData = []; // To store quotes from quotes.json
 const QUOTE_CHANGE_INTERVAL = 30000; // 30 seconds in milliseconds
 
 // DOM Element References
-const quoteElement = document.getElementById('quote');
-const authorElement = document.getElementById('author');
+const quoteElement = document.getElementById("quote");
+const authorElement = document.getElementById("author");
 const toggleBtn = document.getElementById("toggle-mode"); // For theme toggle
 
 // Helper function to pad numbers with a leading zero if they are less than 10.
@@ -29,7 +29,7 @@ function playSound(type, options = {}) {
     audio.currentTime = 0; // Rewind to the start to allow re-playing quickly.
     audio.volume = volume;
     audio.playbackRate = playbackRate;
-    audio.play().catch(error => {
+    audio.play().catch((error) => {
       console.error(`Error playing sound '${type}':`, error);
     });
   }
@@ -48,7 +48,9 @@ function updateCountdown() {
   }
 
   const days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-  const hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const hours = Math.floor(
+    (timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+  );
   const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
   const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
 
@@ -134,10 +136,195 @@ function animateDigits(id, value) {
 
 // Quote display functions
 function showQuote(quoteObj) {
-  if (quoteElement && authorElement) {
-    quoteElement.textContent = `“${quoteObj.q}”`;
-    authorElement.textContent = quoteObj.a ? `– ${quoteObj.a}` : "";
+  if (
+    quoteElement &&
+    authorElement &&
+    quoteObj &&
+    typeof quoteObj.q === "string" &&
+    typeof quoteObj.a === "string"
+  ) {
+    const rawQuote = quoteObj.q;
+    const authorString = quoteObj.a ? `– ${quoteObj.a}` : "";
+
+    // Clear author while quote animates
+    authorElement.textContent = "";
+    const stopWords = new Set([
+      "a",
+      "an",
+      "the",
+      "is",
+      "are",
+      "was",
+      "were",
+      "be",
+      "been",
+      "being",
+      "have",
+      "has",
+      "had",
+      "do",
+      "does",
+      "did",
+      "will",
+      "would",
+      "should",
+      "can",
+      "could",
+      "may",
+      "might",
+      "must",
+      "am",
+      "i",
+      "you",
+      "he",
+      "she",
+      "it",
+      "we",
+      "they",
+      "me",
+      "him",
+      "her",
+      "us",
+      "them",
+      "my",
+      "your",
+      "his",
+      "its",
+      "our",
+      "their",
+      "mine",
+      "yours",
+      "hers",
+      "ours",
+      "theirs",
+      "to",
+      "of",
+      "in",
+      "on",
+      "at",
+      "by",
+      "for",
+      "with",
+      "about",
+      "against",
+      "between",
+      "into",
+      "through",
+      "during",
+      "before",
+      "after",
+      "above",
+      "below",
+      "from",
+      "up",
+      "down",
+      "out",
+      "off",
+      "over",
+      "under",
+      "again",
+      "further",
+      "then",
+      "once",
+      "here",
+      "there",
+      "when",
+      "where",
+      "why",
+      "how",
+      "all",
+      "any",
+      "both",
+      "each",
+      "few",
+      "more",
+      "most",
+      "other",
+      "some",
+      "such",
+      "no",
+      "nor",
+      "not",
+      "only",
+      "own",
+      "same",
+      "so",
+      "than",
+      "too",
+      "very",
+      "s",
+      "t",
+      "just",
+      "don",
+      "shouldve",
+      "now",
+      "get",
+    ]);
+
+    animateLetterShuffle(quoteElement, rawQuote, () => {
+      // This callback runs after the shuffle animation for the quote is complete.
+      // Now, apply highlighting to the final quote text.
+      const finalQuoteHTML = rawQuote.replace(
+        /\b([a-zA-Z']+)\b/g,
+        (match, word) => {
+          const lowerWord = word.toLowerCase();
+          if (!stopWords.has(lowerWord) && lowerWord.length > 3) {
+            return `<span class="highlighted-word">${word}</span>`;
+          }
+          return word;
+        }
+      );
+      quoteElement.innerHTML = `“${finalQuoteHTML}”`; // Set the highlighted version
+      authorElement.textContent = authorString; // Set the author
+    });
+  } else if (quoteElement) {
+    // Handle case where quoteObj is invalid but element exists
+    quoteElement.textContent = "“Could not load quote.”";
+    if (authorElement) authorElement.textContent = "";
   }
+}
+
+function animateLetterShuffle(element, finalString, onComplete) {
+  const shuffleChars =
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!?*%$#@"; // Characters to shuffle through
+  const durationPerChar = 70; // Total time each character takes to "settle" (ms)
+  const shufflesPerSettle = 4; // How many random characters are shown before settling
+  const intervalTime = durationPerChar / shufflesPerSettle;
+  const staggerDelay = 35; // Delay to start animation for the next character (ms)
+
+  let displayedChars = Array(finalString.length).fill(" "); // Start with spaces or a placeholder
+
+  // Prevent multiple animations running on the same element if triggered quickly
+  if (element.dataset.isAnimating === "true") {
+    // Optionally, clear existing animation artifacts or just return
+    // For simplicity, we'll just let the current call proceed, but a more robust solution might cancel previous ones.
+  }
+  element.dataset.isAnimating = "true";
+  element.innerHTML = `“${displayedChars.join("")}”`; // Initial empty-ish display
+
+  finalString.split("").forEach((char, index) => {
+    setTimeout(() => {
+      let shuffleCount = 0;
+      const shuffleIntervalId = setInterval(() => {
+        if (shuffleCount < shufflesPerSettle) {
+          displayedChars[index] =
+            shuffleChars[Math.floor(Math.random() * shuffleChars.length)];
+          element.innerHTML = `“${displayedChars.join("")}”`;
+          shuffleCount++;
+        } else {
+          clearInterval(shuffleIntervalId);
+          displayedChars[index] = char; // Set the correct character
+          element.innerHTML = `“${displayedChars.join("")}”`;
+
+          if (index === finalString.length - 1) {
+            // If this is the last character
+            delete element.dataset.isAnimating;
+            if (onComplete) onComplete();
+          }
+        }
+      }, intervalTime);
+    }, index * staggerDelay); // Stagger the start of each character's animation
+  });
 }
 
 function getRandomQuoteAndDisplay() {
@@ -153,25 +340,32 @@ function getRandomQuoteAndDisplay() {
 // Load quotes from JSON and initialize automatic quote changes
 async function initializeQuotes() {
   try {
-    const response = await fetch('./quotes.json');
+    const response = await fetch("./quotes.json");
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
     quotesData = await response.json();
     getRandomQuoteAndDisplay(); // Show one on startup
-    setInterval(getRandomQuoteAndDisplay, QUOTE_CHANGE_INTERVAL); // Change quote automatically
+    setInterval(getRandomQuoteAndDisplay, QUOTE_CHANGE_INTERVAL); // Change quote automatically by interval
+
+    if (quoteElement) {
+      // Add click listener to the quote itself
+      // click listener disabled for now
+      // quoteElement.addEventListener("click", getRandomQuoteAndDisplay);
+    }
   } catch (error) {
-    console.error('Error loading quotes:', error);
+    console.error("Error loading quotes:", error);
     showQuote({
-      q: "Stay positive, work hard, make it happen.", // Fallback quote
-      a: "Unknown"
+      q: "Oops! The quotes went on vacation without telling us.",
+      a: "The Missing Quote Squad",
     });
   }
 }
 
 // Theme & mode toggle functions
 function updateToggleIcon() {
-  if (toggleBtn) { // Check if button exists
+  if (toggleBtn) {
+    // Check if button exists
     if (document.body.classList.contains("light-mode")) {
       toggleBtn.textContent = "☀️";
     } else {
@@ -212,7 +406,7 @@ function setupThemeToggle() {
 }
 
 // Initialization
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener("DOMContentLoaded", () => {
   // Initial Countdown Call
   updateCountdown();
   const countdownInterval = setInterval(updateCountdown, 1000);
@@ -225,7 +419,11 @@ document.addEventListener('DOMContentLoaded', () => {
   updateToggleIcon(); // Set initial icon state
 
   // Auto-detect user's OS color scheme preference
-  if (window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches && !document.body.classList.contains("light-mode")) {
+  if (
+    window.matchMedia &&
+    window.matchMedia("(prefers-color-scheme: light)").matches &&
+    !document.body.classList.contains("light-mode")
+  ) {
     // Only apply if not already set, to respect theme toggle state if it was used before full load
     document.body.classList.add("light-mode");
     updateToggleIcon(); // Update icon if theme changed
@@ -234,12 +432,16 @@ document.addEventListener('DOMContentLoaded', () => {
   // Register service worker
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./service-worker.js")
-        .then(registration => {
-          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      navigator.serviceWorker
+        .register("./service-worker.js")
+        .then((registration) => {
+          console.log(
+            "ServiceWorker registration successful with scope: ",
+            registration.scope
+          );
         })
-        .catch(error => {
-          console.log('ServiceWorker registration failed: ', error);
+        .catch((error) => {
+          console.log("ServiceWorker registration failed: ", error);
         });
     });
   }

@@ -1,37 +1,130 @@
-# Countdown
+# ⏳ TickTock, Quote O’Clock
 
-A stylish, animated countdown timer featuring dynamic digit animations, automatic inspirational quotes, theme toggling (dark/light), offline PWA support, and a highly responsive design.
+A stylish, animated countdown timer with inspirational quotes, dynamic visuals, and full offline support. Built with responsiveness, customization, and motivation in mind.
 
-## Features
+---
 
-- **Animated digits:** Only the changing digits animate out and in.
-- **Automatic Quotes:** Displays inspirational quotes that update automatically at a set interval.
-- **Heartbeat effect:** Time boxes pulse when their value changes.
-- **Dark/Light mode:** Auto-detects system preference, with manual toggle.
-- **Audible alerts:** Plays distinct sounds for day, hour, minute, and second changes (volume adjustable).
-- **Responsive:** Looks great on all devices and adapts layout to screen shape.
-- **Theme presets:** Easily extendable for more color themes.
-- **Accessible:** ARIA attributes and keyboard navigation support.
-- **Offline support:** Works offline as a Progressive Web App (PWA).
+## 🌟 Features
 
-## Usage
+- **🎞️ Animated Digits:** Only the digits that change animate, for smooth, subtle transitions.
+- **💬 Animated Quotes:** Inspirational quotes appear with a letter-shuffling animation.
+- **🔍 Keyword Highlighting:** Automatically bolds key words in quotes to draw attention.
+- **❤️ Heartbeat Effect:** Time blocks pulse when their value changes — a subtle nod to urgency.
+- **🌓 Dark/Light Mode:** Auto-detects system preference with manual override.
+- **🔔 Audible Alerts:** Unique sounds for each unit change (day, hour, minute, second) with adjustable volume.
+- **📱 Responsive Design:** Works beautifully on all screen sizes and orientations.
+- **🎨 Theme Presets:** Easily extend or customize color themes.
+- **♿ Accessibility-Friendly:** Includes ARIA tags and full keyboard navigation support.
+- **🌐 Offline Ready:** Full PWA support — works offline and installable on desktop/mobile.
+
+---
+
+## 🚀 Usage
 
 1. Clone or download this repository.
-2. Serve the folder with a local server (recommended for offline/PWA features).
-   - Example: `npx serve .` or use the Live Server extension in VS Code.
+2. Serve the project locally:
+   ```bash
+   npx serve .
+   ```
+   Or use **Live Server** in VS Code.
 3. Open `index.html` in your browser.
 
-## Customization
+> **Note:** For full offline support and PWA functionality, serving via a local server is required.
 
-- Change the target date in `script.js`:
-  ```js
-  const targetDate = new Date("2028-09-29T00:00:00+05:30");
-  ```
+---
 
-## License
+## ⚙️ Customization
 
-MIT
+### 🎯 Changing the Countdown Target
 
-## Preview
+Open `script.js` and update the target date:
 
-![Screenshot of Countdown Timer](screenshot.png)
+```js
+const targetDate = new Date("2028-09-29T00:00:00+05:30");
+```
+
+---
+
+## 💬 Managing Quotes
+
+Inspirational quotes are stored in `quotes.json`. You can add, clean, and organize them using the built-in Python script.
+
+### ➕ Adding New Quotes
+
+Edit `quotes.json` manually using this format:
+
+```json
+{
+  "q": "Your inspiring quote goes here.",
+  "a": "Author's Name"
+}
+```
+
+> If the author is unknown, use `"a": "Unknown"` — the script will normalize it to `"Anonymous"`.
+
+---
+
+### 🧹 Cleaning and Fixing Quotes
+
+The included `quote.py` script performs the following:
+
+- ✅ **Deduplication by Similarity:** Removes quotes that are _almost identical_ (90% similarity threshold).
+- ✍️ **Author Correction:** Replaces `"Anonymous"` with a specific author if found in a duplicate.
+- ♻️ **"Unknown" Normalization:** Converts `"Unknown"` to `"Anonymous"`.
+- 📁 **Archiving Removed Quotes:** Stores removed quotes in `removed_quotes.json` along with their matched counterparts.
+- 🔀 **Optional Shuffling:** Enable shuffling by setting `flag=True` in the script.
+
+#### ▶️ How to Run the Script
+
+1. Ensure Python 3 is installed.
+2. Place `quote.py` in the same directory as `quotes.json`.
+3. Run the script:
+   ```bash
+   python quote.py
+   ```
+
+The script will output:
+
+- Original quote count
+- Cleaned quote count
+- Removed quote count
+
+---
+
+### 🤖 Error Handling Fallback
+
+If quotes cannot be loaded, a fallback quote is shown:
+
+```js
+  {
+    "q": "Oops! The quotes went on vacation without telling us.",
+    "a": "The Missing Quote Squad"
+  }
+```
+
+---
+
+## 💡 Future Ideas
+
+- 🎯 Multiple Countdown Events: Save and switch between different dates.
+- 🎨 User-Defined Themes: UI for picking colors.
+- 📅 Event Presets: Quick setup for holidays, birthdays, etc.
+- 💬 Enhanced Quote Customization: Upload quote files or select categories.
+- 🔔 Desktop Notifications: Alert when countdown reaches zero.
+- 🌀 More Animation Styles: Offer different types for digits and quotes.
+- 🌍 Internationalization (i18n): Support multiple languages.
+
+---
+
+## 🖼️ Preview
+
+- Light Theme
+  ![Screenshot of Countdown Timer](preview-light.png)
+- Dark Theme
+  ![Screenshot of Countdown Timer](preview-dark.png)
+
+---
+
+## 📄 License
+
+MIT License

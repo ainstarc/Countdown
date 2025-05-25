@@ -1,506 +1,4478 @@
 [
   {
-    "q": "Life is about making an impact, not making an income.",
-    "a": "Kevin Kruse"
+    "q": "Get comfortable being uncomfortable—that’s where growth lives.",
+    "a": "Anonymous"
   },
   {
-    "q": "Whatever the mind of man can conceive and believe, it can achieve.",
-    "a": "Napoleon Hill"
+    "q": "Success is not measured by money or power, but by the difference you make in people’s lives.",
+    "a": "Michelle Obama (Referenced in documentaries)"
   },
   {
-    "q": "Strive not to be a success, but rather to be of value.",
-    "a": "Albert Einstein"
+    "q": "Let your fear fuel your focus.",
+    "a": "Anonymous"
   },
   {
-    "q": "I attribute my success to this: I never gave or took any excuse.",
-    "a": "Florence Nightingale"
-  },
-  { "q": "You miss 100% of the shots you don't take.", "a": "Wayne Gretzky" },
-  {
-    "q": "I've missed more than 9000 shots in my career. I've lost almost 300 games. I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
-    "a": "Michael Jordan"
+    "q": "Your delay isn’t your denial.",
+    "a": "Anonymous"
   },
   {
-    "q": "The most difficult thing is the decision to act, the rest is merely tenacity.",
-    "a": "Amelia Earhart"
+    "q": "You have to accept who you are before you can change.",
+    "a": "Will Byers (Stranger Things)"
   },
   {
-    "q": "Every strike brings me closer to the next home run.",
-    "a": "Babe Ruth"
+    "q": "A man grows up when he's able to overcome hardships. But still, it's important to protect what's important.",
+    "a": "Jiraiya (Naruto)"
   },
   {
-    "q": "Definiteness of purpose is the starting point of all achievement.",
-    "a": "W. Clement Stone"
+    "q": "A warm smile is the universal language of kindness.",
+    "a": "William Arthur Ward"
   },
   {
-    "q": "Life isn't about getting and having, it's about giving and being.",
-    "a": "Kevin Kruse"
+    "q": "The roots of true achievement lie in the will to become the best that you can become.",
+    "a": "Harold Taylor"
   },
   {
-    "q": "Life is what happens to you while you're busy making other plans.",
-    "a": "John Lennon"
-  },
-  { "q": "We become what we think about.", "a": "Earl Nightingale" },
-  {
-    "q": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.",
-    "a": "Mark Twain"
+    "q": "You’re not falling behind—you’re refining your path.",
+    "a": "Anonymous"
   },
   {
-    "q": "Life is 10% what happens to me and 90% of how I react to it.",
-    "a": "Charles Swindoll"
+    "q": "Don't chase success. Become the person who attracts it.",
+    "a": "Jim Cathcart"
   },
   {
-    "q": "The most common way people give up their power is by thinking they don't have any.",
-    "a": "Alice Walker"
+    "q": "The only way to truly escape the mundane is for you to constantly be evolving.",
+    "a": "Eren Yeager"
   },
-  { "q": "The mind is everything. What you think you become.", "a": "Buddha" },
+  {
+    "q": "The dream works when you do.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t quit. Suffer now and live the rest of your life as a champion.",
+    "a": "Muhammad Ali"
+  },
+  {
+    "q": "Wheresoever you go, go with all your heart.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Clarity comes from engagement, not thought.",
+    "a": "Marie Forleo"
+  },
+  {
+    "q": "You grow more by trying than by planning.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The secret of success is to do the common thing uncommonly well.",
+    "a": "John D. Rockefeller Jr."
+  },
+  {
+    "q": "True strength is measured by how you handle adversity.",
+    "a": "Oliver Queen (Arrow)"
+  },
+  {
+    "q": "People who can’t throw something important away can never hope to change anything.",
+    "a": "Armin Arlert"
+  },
+  {
+    "q": "Every accomplishment starts with the decision to try.",
+    "a": "John F. Kennedy"
+  },
+  {
+    "q": "The lotus flower blooms most beautifully from the deepest and thickest mud.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Your life changes the moment you decide it must.",
+    "a": "Anonymous"
+  },
   {
     "q": "The best time to plant a tree was 20 years ago. The second best time is now.",
     "a": "Chinese Proverb"
   },
-  { "q": "An unexamined life is not worth living.", "a": "Socrates" },
-  { "q": "Eighty percent of success is showing up.", "a": "Woody Allen" },
   {
-    "q": "Your time is limited, so don't waste it living someone else's life.",
-    "a": "Steve Jobs"
+    "q": "When the path you walk always leads back to yourself, you never get lost.",
+    "a": "Master Oogway"
   },
   {
-    "q": "Winning isn't everything, but wanting to win is.",
-    "a": "Vince Lombardi"
+    "q": "Sometimes, things are not what they appear to be.",
+    "a": "Master Oogway"
   },
   {
-    "q": "I am not a product of my circumstances. I am a product of my decisions.",
-    "a": "Stephen Covey"
+    "q": "Be loyal to your purpose, not your comfort.",
+    "a": "Anonymous"
   },
   {
-    "q": "Every child is an artist. The problem is how to remain an artist once he grows up.",
-    "a": "Pablo Picasso"
+    "q": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.",
+    "a": "Master Oogway"
   },
   {
-    "q": "You can never cross the ocean until you have the courage to lose sight of the shore.",
-    "a": "Christopher Columbus"
+    "q": "The sea refuses no river.",
+    "a": "African Proverb"
   },
   {
-    "q": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-    "a": "Maya Angelou"
-  },
-  { "q": "Either you run the day, or the day runs you.", "a": "Jim Rohn" },
-  {
-    "q": "Whether you think you can or you think you can't, you're right.",
-    "a": "Henry Ford"
+    "q": "Be patient with the space between planting and blooming.",
+    "a": "Anonymous"
   },
   {
-    "q": "The two most important days in your life are the day you are born and the day you find out why.",
-    "a": "Mark Twain"
+    "q": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "a": "Brian Tracy"
   },
   {
-    "q": "Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.",
-    "a": "Johann Wolfgang von Goethe"
-  },
-  { "q": "The best revenge is massive success.", "a": "Frank Sinatra" },
-  {
-    "q": "People often say that motivation doesn't last. Well, neither does bathing. That's why we recommend it daily.",
-    "a": "Zig Ziglar"
+    "q": "Sometimes the bad things that happen in our lives put us directly on the path to the best things.",
+    "a": "Nicole Reed"
   },
   {
-    "q": "Life shrinks or expands in proportion to one's courage.",
-    "a": "Anaïs Nin"
+    "q": "The courage to continue is what separates those who succeed from those who almost did.",
+    "a": "Anonymous"
   },
   {
-    "q": "If you hear a voice within you say 'you cannot paint,' then by all means paint and that voice will be silenced.",
-    "a": "Vincent Van Gogh"
+    "q": "Silence isn’t empty, it’s full of answers.",
+    "a": "Anonymous"
   },
   {
-    "q": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
-    "a": "Aristotle"
+    "q": "The strongest people often have the softest hearts.",
+    "a": "Anonymous"
   },
   {
-    "q": "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.",
-    "a": "Jesus"
+    "q": "The best view comes after the hardest climb.",
+    "a": "Anonymous"
   },
   {
-    "q": "The only person you are destined to become is the person you decide to be.",
-    "a": "Ralph Waldo Emerson"
+    "q": "Every scar is a story of survival and strength.",
+    "a": "Anonymous"
   },
   {
-    "q": "Go confidently in the direction of your dreams. Live the life you have imagined.",
-    "a": "Henry David Thoreau"
+    "q": "The struggle you’re avoiding may be the shortcut you need.",
+    "a": "Anonymous"
   },
   {
-    "q": "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, 'I used everything you gave me.'",
-    "a": "Erma Bombeck"
+    "q": "The work you're avoiding holds the life you want.",
+    "a": "Anonymous"
   },
   {
-    "q": "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.",
-    "a": "Booker T. Washington"
+    "q": "Your dreams are valid, even if no one claps yet.",
+    "a": "Anonymous"
   },
   {
-    "q": "Certain things catch your eye, but pursue only those that capture the heart.",
-    "a": "Ancient Indian Proverb"
+    "q": "Dream it. Believe it. Build it.",
+    "a": "Anonymous"
   },
   {
-    "q": "Believe you can and you're halfway there.",
-    "a": "Theodore Roosevelt"
+    "q": "Progress means trying again after failing again.",
+    "a": "Anonymous"
   },
   {
-    "q": "Everything you've ever wanted is on the other side of fear.",
-    "a": "George Addair"
+    "q": "Little by little, a little becomes a lot.",
+    "a": "Tanzanian Proverb"
   },
   {
-    "q": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
-    "a": "Plato"
-  },
-  {
-    "q": "Teach thy tongue to say, 'I do not know,' and thou shalt progress.",
-    "a": "Maimonides"
-  },
-  {
-    "q": "Start where you are. Use what you have. Do what you can.",
-    "a": "Arthur Ashe"
-  },
-  {
-    "q": "When I was 5 years old, my mother always told me that happiness was the key to life.",
-    "a": "John Lennon"
-  },
-  { "q": "Fall seven times and stand up eight.", "a": "Japanese Proverb" },
-  { "q": "Everything has beauty, but not everyone can see.", "a": "Confucius" },
-  {
-    "q": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
-    "a": "Anne Frank"
-  },
-  {
-    "q": "When I let go of what I am, I become what I might be.",
-    "a": "Lao Tzu"
-  },
-  {
-    "q": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
-    "a": "Maya Angelou"
-  },
-  {
-    "q": "Happiness is not something readymade. It comes from your own actions.",
-    "a": "Dalai Lama"
-  },
-  {
-    "q": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
-    "a": "Sheryl Sandberg"
-  },
-  {
-    "q": "First, have a definite, clear practical ideal; a goal, an objective.",
-    "a": "Aristotle"
-  },
-  {
-    "q": "If the wind will not serve, take to the oars.",
-    "a": "Latin Proverb"
-  },
-  {
-    "q": "You can't fall if you don't climb. But there's no joy in living your whole life on the ground.",
-    "a": "Unknown"
-  },
-  {
-    "q": "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
-    "a": "Marie Curie"
-  },
-  {
-    "q": "Too many of us are not living our dreams because we are living our fears.",
-    "a": "Les Brown"
-  },
-  {
-    "q": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
-    "a": "Joshua J. Marine"
-  },
-  {
-    "q": "If you want to lift yourself up, lift up someone else.",
-    "a": "Booker T. Washington"
-  },
-  {
-    "q": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
-    "a": "Leonardo da Vinci"
-  },
-  {
-    "q": "You take your life in your own hands, and what happens? A terrible thing, no one to blame.",
+    "q": "If you don’t risk anything, you risk even more.",
     "a": "Erica Jong"
   },
   {
-    "q": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
-    "a": "Bob Dylan"
+    "q": "If you want to live a happy life, tie it to a goal, not to people or things.",
+    "a": "Brian Tracy"
   },
   {
-    "q": "I didn't fail the test. I just found 100 ways to do it wrong.",
-    "a": "Benjamin Franklin"
+    "q": "You were born to impact—not to impress.",
+    "a": "Anonymous"
   },
   {
-    "q": "A person who never made a mistake never tried anything new.",
-    "a": "Albert Einstein"
+    "q": "Take the risk or lose the chance.",
+    "a": "Anonymous"
   },
   {
-    "q": "The person who says it cannot be done should not interrupt the person who is doing it.",
-    "a": "Chinese Proverb"
+    "q": "The greatest wins are often unseen.",
+    "a": "Anonymous"
   },
   {
-    "q": "There are no traffic jams along the extra mile.",
-    "a": "Roger Staubach"
+    "q": "We are all capable of more than we think.",
+    "a": "Jane Goodall (Referenced in documentaries)"
   },
   {
-    "q": "It is never too late to be what you might have been.",
-    "a": "George Eliot"
-  },
-  { "q": "You become what you believe.", "a": "Oprah Winfrey" },
-  {
-    "q": "I would rather die of passion than of boredom.",
-    "a": "Vincent Van Gogh"
-  },
-  {
-    "q": "A truly rich man is one whose children run into his arms when his hands are empty.",
-    "a": "Unknown"
-  },
-  {
-    "q": "It is not what you do for your children, but what you have taught them to do for themselves.",
-    "a": "Oprah Winfrey"
-  },
-  {
-    "q": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
-    "a": "James Cameron"
-  },
-  {
-    "q": "The only limit to our realization of tomorrow will be our doubts of today.",
-    "a": "Franklin D. Roosevelt"
-  },
-  { "q": "Creativity is intelligence having fun.", "a": "Albert Einstein" },
-  {
-    "q": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "q": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "a": "Ralph Waldo Emerson"
   },
   {
-    "q": "You must do the things you think you cannot do.",
-    "a": "Eleanor Roosevelt"
+    "q": "You have to take risks. We only understand the miracle of life when we face uncertainty.",
+    "a": "Spike Spiegel (Cowboy Bebop)"
+  },
+  {
+    "q": "True power is protecting what you love.",
+    "a": "Vegeta (Dragon Ball Z)"
+  },
+  {
+    "q": "Failure is the condiment that gives success its flavor.",
+    "a": "Truman Capote"
+  },
+  {
+    "q": "Vision without action is merely a dream. Action without vision just passes the time.",
+    "a": "Joel A. Barker"
+  },
+  {
+    "q": "Success is not about luck, it’s about hard work and perseverance.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The only limits are those you place on yourself.",
+    "a": "Goku (Dragon Ball Z)"
   },
   {
     "q": "The future belongs to those who believe in the beauty of their dreams.",
     "a": "Eleanor Roosevelt"
   },
   {
-    "q": "It does not matter how slowly you go as long as you do not stop.",
+    "q": "Every repetition is a vote for who you want to be.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Those who break the rules are scum, but those who abandon their friends are worse than scum.",
+    "a": "Nakama (One Piece)"
+  },
+  {
+    "q": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "a": "Ralph Waldo Emerson"
+  },
+  {
+    "q": "Develop an attitude of gratitude, and give thanks for everything that happens to you.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Consistency isn't glamorous. It's powerful.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If you want something you’ve never had, you must be willing to do something you’ve never done.",
+    "a": "Thomas Jefferson"
+  },
+  {
+    "q": "To realize one's own potential is the greatest achievement.",
+    "a": "Shoyo Hinata (Haikyuu!!)"
+  },
+  {
+    "q": "Success is not in never falling, but in rising every time we fall.",
     "a": "Confucius"
   },
-  { "q": "Dream big and dare to fail.", "a": "Norman Vaughan" },
   {
-    "q": "Our lives begin to end the day we become silent about things that matter.",
-    "a": "Martin Luther King Jr."
+    "q": "The chances you take, the people you meet, the people you love, the faith that you have.",
+    "a": "Denzel Washington"
   },
   {
-    "q": "Do what you can, with what you have, where you are.",
-    "a": "Theodore Roosevelt"
+    "q": "Make your life a masterpiece; imagine no limitations on what you can be, have or do.",
+    "a": "Brian Tracy"
   },
   {
-    "q": "You are never too old to set another goal or to dream a new dream.",
-    "a": "C.S. Lewis"
+    "q": "It’s not what happens to you, but how you react to it that matters.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The journey is just as important as the destination.",
+    "a": "Kenshin Himura (Rurouni Kenshin)"
+  },
+  {
+    "q": "Sometimes, the hardest battles are given to the strongest warriors.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Belief is the soil. Action is the water.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "To infinity and beyond!",
+    "a": "Buzz Lightyear (Toy Story)"
+  },
+  {
+    "q": "Don’t wait for perfect timing. Just begin.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Imagination is more important than knowledge.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "No matter how deep the night, it always turns to day, eventually.",
+    "a": "Brook (One Piece)"
+  },
+  {
+    "q": "The greatest oak was once a little nut that held its ground.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Every sunrise is an invitation to rise and shine.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Keep showing up for yourself even when no one notices.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If it excites and scares you, it’s probably worth it.",
+    "a": "Anonymous"
   },
   {
     "q": "Act as if what you do makes a difference. It does.",
     "a": "William James"
   },
   {
-    "q": "Success usually comes to those who are too busy to be looking for it.",
-    "a": "Henry David Thoreau"
+    "q": "You miss 100% of the shots you don’t take.",
+    "a": "Wayne Gretzky"
   },
-  { "q": "Opportunities don't happen, you create them.", "a": "Chris Grosser" },
   {
-    "q": "Don't watch the clock; do what it does. Keep going.",
+    "q": "The heart is the true source of strength.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "You are enough—even while becoming more.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "We are stronger than we think.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "You become what you think about most of the time.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The path may not be easy, but the destination makes it worth it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The obstacle is the way.",
+    "a": "Marcus Aurelius"
+  },
+  {
+    "q": "Success doesn’t always shout—it often whispers through perseverance.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success seems to be connected with action. Successful people keep moving.",
+    "a": "Conrad Hilton"
+  },
+  {
+    "q": "Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall find a way around or through it.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Doubt kills more dreams than failure ever will.",
+    "a": "Suzy Kassem"
+  },
+  {
+    "q": "You didn’t come this far to only come this far.",
+    "a": "Tom Brady"
+  },
+  {
+    "q": "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t.",
+    "a": "Rikki Rogers"
+  },
+  {
+    "q": "I find that the harder I work, the more luck I seem to have.",
+    "a": "Thomas Jefferson"
+  },
+  {
+    "q": "Hope never dies, as long as you keep fighting.",
+    "a": "All Might (My Hero Academia)"
+  },
+  {
+    "q": "Make your effort louder than your excuses.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The world is not beautiful. Therefore, it is.",
+    "a": "Kino (Kino's Journey)"
+  },
+  {
+    "q": "Be so good they can’t ignore you.",
+    "a": "Steve Martin"
+  },
+  {
+    "q": "Don’t let fear talk you out of your future.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Mindfulness isn’t difficult. We just need to remember to do it.",
+    "a": "Sharon Salzberg"
+  },
+  {
+    "q": "Don’t confuse resting with quitting.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are allowed to outgrow people, places, and versions of yourself.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears.",
+    "a": "Chantal Sutherland"
+  },
+  {
+    "q": "I say luck is when an opportunity comes along and you’re prepared for it.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "You either die a hero, or you live long enough to see yourself become the villain.",
+    "a": "Harvey Dent (The Dark Knight)"
+  },
+  {
+    "q": "Turn pressure into purpose.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The superior man is modest in his speech but exceeds in his actions.",
+    "a": "Confucius"
+  },
+  {
+    "q": "You are not alone. We are connected by our hearts.",
+    "a": "Tsubaki Nakatsukasa (Soul Eater)"
+  },
+  {
+    "q": "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
+    "a": "Confucius"
+  },
+  {
+    "q": "No matter how dark it gets, there's always light if you look for it.",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+    "a": "William Butler Yeats"
+  },
+  {
+    "q": "Even the strongest trees bend in storms. Bending doesn’t mean breaking.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your life is your story. Write well, edit often.",
+    "a": "Susan Statham (Referenced in media)"
+  },
+  {
+    "q": "Be thankful for what you have; you'll end up having more.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Learn as if you will live forever, live like you will die tomorrow.",
+    "a": "Mahatma Gandhi"
+  },
+  {
+    "q": "A lesson without effort is like a bird without wings.",
+    "a": "Hinata Hyuga (Naruto)"
+  },
+  {
+    "q": "We each have our own path to walk.",
+    "a": "Shanks (One Piece)"
+  },
+  {
+    "q": "You should enjoy the little detours. Because that’s where you’ll find the things more important than what you want.",
+    "a": "Ging Freecss (Hunter x Hunter)"
+  },
+  {
+    "q": "Let action be your loudest statement.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Invest three percent of your income in yourself (self-development) in order to guarantee your future.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Success isn’t owned. It’s leased, and rent is due every day.",
+    "a": "J.J. Watt"
+  },
+  {
+    "q": "It’s not the years in your life that count. It’s the life in your years.",
+    "a": "Abraham Lincoln"
+  },
+  {
+    "q": "Failure is a stepping stone to success.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "Champions keep playing until they get it right.",
+    "a": "Billie Jean King"
+  },
+  {
+    "q": "Even if it’s a path of thorns, I’ll walk it without hesitation.",
+    "a": "Kurisu Makise (Steins;Gate)"
+  },
+  {
+    "q": "If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.",
+    "a": "Martin Luther King Jr."
+  },
+  {
+    "q": "Little things make big days.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "To know sorrow is not terrifying. What is terrifying is to know you can’t go back to the happiness you could have.",
+    "a": "Matsumoto Rangiku (Bleach)"
+  },
+  {
+    "q": "The power to change the world lies within you.",
+    "a": "Eren Yeager (Attack on Titan)"
+  },
+  {
+    "q": "The harder the conflict, the greater the triumph.",
+    "a": "George Washington"
+  },
+  {
+    "q": "Not everything needs fixing—some things just need releasing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Wherever there is charity and wisdom, there is neither fear nor ignorance.",
+    "a": "Francis of Assisi"
+  },
+  {
+    "q": "Some wins are silent, but they count just the same.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Growth isn’t always loud. Sometimes it's just quiet healing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Stand firm in who you're becoming.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Mistakes are always forgivable, if one has the courage to admit them.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "The moment you stop chasing approval is the moment you find freedom.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The only thing standing between you and your goal is the story you keep telling yourself.",
+    "a": "Jordan Belfort"
+  },
+  {
+    "q": "Let us make our future now, and let us make our dreams tomorrow’s reality.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Sometimes the hardest battles lead to the greatest victories.",
+    "a": "Sasuke Uchiha (Naruto)"
+  },
+  {
+    "q": "Don’t watch the clock; do what it does. Keep going.",
     "a": "Sam Levenson"
   },
   {
-    "q": "You may be disappointed if you fail, but you are doomed if you don't try.",
-    "a": "Beverly Sills"
+    "q": "We cannot direct the wind, but we can adjust the sails.",
+    "a": "Dolly Parton"
   },
   {
-    "q": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-    "a": "Albert Schweitzer"
+    "q": "Growth looks good on you.",
+    "a": "Anonymous"
   },
   {
-    "q": "The best way to predict the future is to create it.",
-    "a": "Peter Drucker"
+    "q": "Even the darkest night will end and the sun will rise.",
+    "a": "Victor Hugo"
   },
   {
-    "q": "You only live once, but if you do it right, once is enough.",
-    "a": "Mae West"
+    "q": "The more you take away, the more you become.",
+    "a": "Master Oogway"
   },
-  { "q": "The purpose of our lives is to be happy.", "a": "Dalai Lama" },
-  { "q": "Get busy living or get busy dying.", "a": "Stephen King" },
   {
-    "q": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "q": "Your light intimidates those still hiding in the dark.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Dreams only die when you give up on them.",
+    "a": "Natsu Dragneel (Fairy Tail)"
+  },
+  {
+    "q": "Patience is the companion of wisdom.",
+    "a": "Saint Augustine"
+  },
+  {
+    "q": "You don’t have to see the whole staircase, just take the first step.",
+    "a": "Martin Luther King Jr."
+  },
+  {
+    "q": "Success is staying true to your path even when others walk away.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Inhale the future, exhale the past.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Put God first in everything you do.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Let your actions outshine your doubts.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Do what you can, with what you have, where you are.",
+    "a": "Theodore Roosevelt"
+  },
+  {
+    "q": "One day, all your hard work will pay off in ways you never imagined.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "a": "Nelson Mandela"
+  },
+  {
+    "q": "To know the road ahead, ask those coming back.",
+    "a": "Chinese Proverb"
+  },
+  {
+    "q": "You can't control the wind, but you can adjust your sails.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Believe in yourself, even when no one else does.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "If you spend too much time thinking about a thing, you’ll never get it done.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "You don’t have to be perfect to be amazing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The journey of a thousand miles begins with a single step.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Fall forward. Every failed experiment is one step closer to success.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "A gem cannot be polished without friction, nor a man perfected without trials.",
+    "a": "Chinese Proverb"
+  },
+  {
+    "q": "The ability to concentrate your attention on important things is a defining characteristic of intelligence.",
     "a": "Brian Tracy"
+  },
+  {
+    "q": "The right path often looks lonely in the beginning.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Pain is the teacher of growth.",
+    "a": "Pain (Naruto)"
+  },
+  {
+    "q": "You never know how strong you are until being strong is your only choice.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
+    "a": "Joyce Brothers"
+  },
+  {
+    "q": "Be like the moon: inspire others even when you're far from full.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Go as far as you can see; when you get there, you'll be able to see further.",
+    "a": "Thomas Carlyle"
+  },
+  {
+    "q": "The discomfort you feel today is growth knocking.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are never too old to set another goal or to dream a new dream.",
+    "a": "C.S. Lewis"
+  },
+  {
+    "q": "The heart knows what the mind cannot understand.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "Don’t be afraid to fail. Be afraid not to try.",
+    "a": "Michael Jordan"
+  },
+  {
+    "q": "It’s not whether you get knocked down, it’s whether you get up.",
+    "a": "Vince Lombardi"
+  },
+  {
+    "q": "Don’t shrink yourself to fit into places you’ve outgrown.",
+    "a": "Anonymous"
   },
   {
     "q": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
     "a": "Christian D. Larson"
   },
   {
-    "q": "The only impossible journey is the one you never begin.",
-    "a": "Tony Robbins"
+    "q": "Every mountain top is within reach if you just keep climbing.",
+    "a": "Barry Finlay"
   },
   {
-    "q": "You must be the change you wish to see in the world.",
+    "q": "The key to success is to focus our conscious mind on things we desire not things we fear.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Success isn’t about how much money you make, it’s about the difference you make in people’s lives.",
+    "a": "Michelle Obama"
+  },
+  {
+    "q": "Create a life you don't need a vacation from.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The more you sweat in practice, the less you bleed in battle.",
+    "a": "Goku (Dragon Ball Z)"
+  },
+  {
+    "q": "You just can't beat the person who never gives up.",
+    "a": "Babe Ruth"
+  },
+  {
+    "q": "Great things are done when men and mountains meet.",
+    "a": "William Blake"
+  },
+  {
+    "q": "The world isn’t fair. But that doesn’t mean you can’t make it better.",
+    "a": "Walter White (Breaking Bad)"
+  },
+  {
+    "q": "The world isn’t just cruel, it’s also beautiful.",
+    "a": "Mikasa Ackerman"
+  },
+  {
+    "q": "The future depends on what you do today.",
     "a": "Mahatma Gandhi"
   },
   {
-    "q": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "q": "Show up. Mess up. Level up.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When you choose peace, you’ve already won.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "I am fundamentally an optimist. Whether that comes from nature or nurture, I cannot say.",
+    "a": "Nelson Mandela"
+  },
+  {
+    "q": "To protect is to love.",
+    "a": "Vegeta (Dragon Ball Z)"
+  },
+  {
+    "q": "When you master your mind, you master your world.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes, the best way forward is to pause and breathe.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You must let go of the illusion of control.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Being strong means knowing when to ask for help.",
+    "a": "Shoto Todoroki (My Hero Academia)"
+  },
+  {
+    "q": "Humans aren’t made to live alone. We’re supposed to come together.",
+    "a": "Yuu Otosaka (Charlotte)"
+  },
+  {
+    "q": "You are not weak because you cry. You are strong because you still stand.",
+    "a": "Nana Osaki (NANA)"
+  },
+  {
+    "q": "Discipline is the bridge between goals and accomplishment.",
+    "a": "Jim Rohn"
+  },
+  {
+    "q": "A river cuts through rock not because of its power but its persistence.",
+    "a": "Jim Watkins"
+  },
+  {
+    "q": "Believe in your infinite potential. Your only limitations are those you set upon yourself.",
     "a": "Roy T. Bennett"
   },
   {
-    "q": "The only way to do great work is to love what you do.",
-    "a": "Steve Jobs"
+    "q": "When one door of happiness closes, another opens.",
+    "a": "Helen Keller"
   },
   {
-    "q": "The best revenge is to be unlike him who performed the injury.",
-    "a": "Marcus Aurelius"
+    "q": "Pain is temporary, but pride is forever.",
+    "a": "Goku (Dragon Ball Z)"
   },
   {
-    "q": "Success is walking from failure to failure with no loss of enthusiasm.",
-    "a": "Winston Churchill"
+    "q": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+    "a": "Oprah Winfrey"
   },
   {
-    "q": "What we fear doing most is usually what we most need to do.",
-    "a": "Tim Ferriss"
+    "q": "It is never too late to be what you might have been.",
+    "a": "George Eliot"
   },
   {
-    "q": "You are braver than you believe, stronger than you seem, and smarter than you think.",
-    "a": "A.A. Milne"
+    "q": "Sometimes the strongest thing you can do is ask for help.",
+    "a": "Shoyo Hinata (Haikyuu!!)"
   },
   {
-    "q": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-    "a": "Winston Churchill"
+    "q": "Even if you’re weak, there’s always a chance to grow stronger.",
+    "a": "Tanjiro Kamado (Demon Slayer)"
   },
   {
-    "q": "The future belongs to those who prepare for it today.",
-    "a": "Malcolm X"
-  },
-  { "q": "Don't count the days, make the days count.", "a": "Muhammad Ali" },
-  {
-    "q": "The only place where success comes before work is in the dictionary.",
-    "a": "Vidal Sassoon"
+    "q": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+    "a": "Maya Angelou"
   },
   {
-    "q": "Success is not the absence of failure; it's the persistence through failure.",
-    "a": "Aisha Tyler"
+    "q": "In the middle of difficulty lies opportunity.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "You’re not meant to be perfect—just persistent.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Fall seven times and stand up eight.",
+    "a": "Japanese Proverb"
+  },
+  {
+    "q": "Success depends upon previous preparation, and without such preparation, there is sure to be failure.",
+    "a": "Confucius"
+  },
+  {
+    "q": "The fire within you must burn brighter than the chaos around you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Energy flows where your focus goes.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "In order to escape a crisis, sometimes you have to take a leap of faith.",
+    "a": "Erwin Smith (Attack on Titan)"
+  },
+  {
+    "q": "Count your age by friends, not years. Count your life by smiles, not tears.",
+    "a": "John Lennon"
+  },
+  {
+    "q": "He who speaks without modesty will find it difficult to make his words good.",
+    "a": "Confucius"
+  },
+  {
+    "q": "You have the power to rewrite your destiny.",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "It is not the strong who win, but the winners who are strong.",
+    "a": "Ash Ketchum (Pokémon)"
+  },
+  {
+    "q": "Your life does not get better by chance, it gets better by change.",
+    "a": "Jim Rohn"
+  },
+  {
+    "q": "It’s not about how bad you want it. It’s about how hard you’re willing to work for it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The story isn’t over until you stop writing it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The more credit you give away, the more will come back to you.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Even if you fall, get back up and keep moving forward.",
+    "a": "Kakashi Hatake (Naruto)"
+  },
+  {
+    "q": "Success doesn’t come from what you do occasionally. It comes from what you do consistently.",
+    "a": "Marie Forleo"
+  },
+  {
+    "q": "I raise up my voice—not so that I can shout, but so that those without a voice can be heard.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "People’s feelings are memories that transcend time.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "Surround yourself with only people who are going to lift you higher.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "Real knowledge is to know the extent of one’s ignorance.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Never underestimate the strength built in solitude.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You can't change the past, but you can learn from it and shape the future.",
+    "a": "Yagami Light (Death Note)"
+  },
+  {
+    "q": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
+    "a": "Vince Lombardi"
+  },
+  {
+    "q": "Never be afraid to fail.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Even the smallest light can shine through the darkest night.",
+    "a": "Shoyo Hinata (Haikyuu!!)"
+  },
+  {
+    "q": "To know sorrow is not terrifying. What is terrifying is to know you can’t go back to the way you were before.",
+    "a": "Mitsuki (Naruto)"
+  },
+  {
+    "q": "Even if I can’t do it now, I’ll get stronger and make it happen.",
+    "a": "Deku (My Hero Academia)"
+  },
+  {
+    "q": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+    "a": "Thich Nhat Hanh"
+  },
+  {
+    "q": "The hardest battles make the strongest warriors.",
+    "a": "Saitama (One Punch Man)"
+  },
+  {
+    "q": "In order to succeed, we must first believe that we can.",
+    "a": "Nikos Kazantzakis"
+  },
+  {
+    "q": "Every step forward is a victory.",
+    "a": "Tanjiro Kamado (Demon Slayer)"
+  },
+  {
+    "q": "A sword wields no strength unless the hand that holds it has courage.",
+    "a": "Hero's Shade (The Legend of Zelda: Twilight Princess anime scenes)"
+  },
+  {
+    "q": "Even when you're doubting, you're doing more than you think.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Build yourself so solid that no storm can move you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your comfort zone is a beautiful place, but nothing ever grows there.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "It’s not the size of the dog in the fight, but the size of the fight in the dog.",
+    "a": "Rock Lee (Naruto)"
   },
   {
     "q": "The way to get started is to quit talking and begin doing.",
     "a": "Walt Disney"
   },
   {
-    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
-    "a": "Michelle Obama"
+    "q": "What seems to us as bitter trials are often blessings in disguise.",
+    "a": "Oscar Wilde"
   },
   {
-    "q": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
-    "a": "Roy T. Bennett"
+    "q": "The world changes when you change yourself.",
+    "a": "Naruto Uzumaki (Naruto)"
   },
   {
-    "q": "Success is not about being the best. It's about always getting better.",
-    "a": "Behdad Sami"
+    "q": "The people who are crazy enough to think they can change the world are the ones who do.",
+    "a": "Steve Jobs"
   },
   {
-    "q": "The only way to achieve the impossible is to believe it is possible.",
-    "a": "Charles Kingsleigh"
+    "q": "You won’t always feel ready. Do it anyway.",
+    "a": "Anonymous"
   },
   {
-    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
-    "a": "Unknown"
+    "q": "The future belongs to the ones who move now.",
+    "a": "Anonymous"
   },
   {
-    "q": "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.",
-    "a": "Orison Swett Marden"
+    "q": "Don’t chase perfect—chase better.",
+    "a": "Anonymous"
   },
   {
-    "q": "Success is not about being perfect. It's about making progress.",
-    "a": "Unknown"
+    "q": "When you’re at your lowest, that’s when you must rise the highest.",
+    "a": "Deku (My Hero Academia)"
   },
   {
-    "q": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-    "a": "Albert Schweitzer"
+    "q": "There is nothing more powerful than a girl with a book.",
+    "a": "Malala Yousafzai"
   },
   {
-    "q": "Success is not how high you have climbed, but how you make a positive difference to the world.",
-    "a": "Roy T. Bennett"
+    "q": "Sometimes we’re tested not to show our weaknesses, but to discover our strengths.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Start before you're ready. Ready comes later.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success is about creating value.",
+    "a": "Candice Carpenter"
+  },
+  {
+    "q": "A year from now you may wish you had started today.",
+    "a": "Karen Lamb"
+  },
+  {
+    "q": "Progress isn’t always pretty—but it’s still progress.",
+    "a": "Anonymous"
   },
   {
     "q": "Success is not in what you have, but who you are.",
     "a": "Bo Bennett"
   },
   {
-    "q": "Success is not about what you have, but what you give.",
-    "a": "Unknown"
+    "q": "Sometimes, to protect someone, you have to hurt them.",
+    "a": "Levi Ackerman"
   },
   {
-    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
-    "a": "Michelle Obama"
+    "q": "When it’s tough, remember: diamonds are made under pressure.",
+    "a": "Anonymous"
   },
   {
-    "q": "Success is not about being the best. It's about always getting better.",
-    "a": "Behdad Sami"
+    "q": "Go the extra mile. It's never crowded there.",
+    "a": "Dr. Wayne Dyer"
   },
   {
-    "q": "Success is not about being perfect. It's about making progress.",
-    "a": "Unknown"
+    "q": "You can’t use up creativity. The more you use, the more you have.",
+    "a": "Maya Angelou"
   },
   {
-    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
-    "a": "Unknown"
+    "q": "Even if the world is full of hatred, we must not become consumed by it.",
+    "a": "Sasuke Uchiha (Naruto)"
   },
   {
-    "q": "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.",
-    "a": "Orison Swett Marden"
+    "q": "Build your dreams louder than your doubts.",
+    "a": "Anonymous"
   },
   {
-    "q": "Success is not about being perfect. It's about making progress.",
-    "a": "Unknown"
+    "q": "Kindness is a language which the deaf can hear and the blind can see.",
+    "a": "Mark Twain"
   },
   {
-    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
-    "a": "Unknown"
+    "q": "The key to realizing a dream is to focus not on success but on significance.",
+    "a": "Oprah Winfrey"
   },
   {
-    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
-    "a": "Michelle Obama"
+    "q": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "a": "Mahatma Gandhi"
   },
   {
-    "q": "Success is not about being the best. It's about always getting better.",
-    "a": "Behdad Sami"
+    "q": "Your potential is limitless.",
+    "a": "Monkey D. Luffy (One Piece)"
   },
   {
-    "q": "Success is not about being perfect. It's about making progress.",
-    "a": "Unknown"
+    "q": "You’re not chasing the dream—you’re becoming it.",
+    "a": "Anonymous"
   },
   {
-    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
-    "a": "Unknown"
+    "q": "You don’t have to be perfect to be powerful.",
+    "a": "Shoto Todoroki (My Hero Academia)"
   },
   {
-    "q": "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.",
-    "a": "Orison Swett Marden"
+    "q": "You can’t change the past, but you can learn from it.",
+    "a": "Armin Arlert"
   },
   {
-    "q": "Success is not about being perfect. It's about making progress.",
-    "a": "Unknown"
+    "q": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "a": "C.S. Lewis"
   },
   {
-    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
-    "a": "Unknown"
+    "q": "Success is not the key to happiness. Happiness is the key to success.",
+    "a": "Albert Schweitzer"
   },
   {
-    "q": "Success is not about how much money you make, but the difference you make in people's lives.",
-    "a": "Michelle Obama"
+    "q": "We cannot all succeed when half of us are held back.",
+    "a": "Malala Yousafzai"
   },
   {
-    "q": "Success is not about being the best. It's about always getting better.",
-    "a": "Behdad Sami"
+    "q": "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.",
+    "a": "Andrew Carnegie"
   },
   {
-    "q": "Success is not about being perfect. It's about making progress.",
-    "a": "Unknown"
+    "q": "Success is what comes after you stop making excuses.",
+    "a": "Anonymous"
   },
   {
-    "q": "Success is not just what you accomplish in your life, it's about what you inspire others to do.",
-    "a": "Unknown"
+    "q": "The night is darkest just before the dawn. And I promise you, the dawn is coming.",
+    "a": "Harvey Dent (The Dark Knight)"
+  },
+  {
+    "q": "The comeback is always stronger than the setback.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "To succeed in life, you need two things: ignorance and confidence.",
+    "a": "Mark Twain"
+  },
+  {
+    "q": "Never forget who you want to become.",
+    "a": "Eren Yeager (Attack on Titan)"
+  },
+  {
+    "q": "Consistency is more powerful than motivation.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success is the ability to go from one failure to another with no loss of enthusiasm.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "If you want to achieve worthwhile things in your life, you must take 100% responsibility for your life.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The future belongs to the competent. Get good, get better, be the best!",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Rest, but never quit.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Let your hustle be louder than your doubts.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Strength without compassion is meaningless.",
+    "a": "Vegeta (Dragon Ball Z)"
+  },
+  {
+    "q": "If you’re tired, learn to rest, not retreat.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The best preparation for tomorrow is doing your best today.",
+    "a": "H. Jackson Brown Jr."
+  },
+  {
+    "q": "The possession of anything begins in the mind.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Don’t be afraid to make sacrifices to protect those you love.",
+    "a": "Levi Ackerman"
+  },
+  {
+    "q": "Growth comes from pain and perseverance.",
+    "a": "Shoto Todoroki (My Hero Academia)"
+  },
+  {
+    "q": "I never really viewed myself as particularly talented. Where I excel is ridiculous, sickening work ethic.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "You can do hard things.",
+    "a": "Glennon Doyle"
+  },
+  {
+    "q": "The best way to predict your future is to create it.",
+    "a": "Abraham Lincoln"
+  },
+  {
+    "q": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Don’t wait for the right opportunity. Create it.",
+    "a": "George Bernard Shaw"
+  },
+  {
+    "q": "Study the past if you would define the future.",
+    "a": "Confucius"
+  },
+  {
+    "q": "When the winds of change blow, some build walls and others build windmills.",
+    "a": "Chinese Proverb"
+  },
+  {
+    "q": "Your life only gets better when you get better.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The world doesn’t owe you anything; you have to take it.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Burnout is not a badge. Rest is revolutionary.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your fire may flicker, but it won't go out.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Adopt the pace of nature: her secret is patience.",
+    "a": "Ralph Waldo Emerson"
+  },
+  {
+    "q": "You can rewrite the narrative any day you choose.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Clarity doesn’t come from thinking. It comes from doing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes the smallest step in the right direction ends up being the biggest step of your life.",
+    "a": "Naeem Callaway"
+  },
+  {
+    "q": "Believe in the impossible.",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "No one is coming to push you. Be your own force.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You don’t grow when you’re comfortable.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Storms make trees take deeper roots.",
+    "a": "Dolly Parton"
+  },
+  {
+    "q": "When you give up, that’s when the game is over.",
+    "a": "Mitsuki (Naruto)"
+  },
+  {
+    "q": "Determination breaks through all barriers.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Your consistency is someone else’s motivation.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes what you need most is a little perspective.",
+    "a": "Yoda (Star Wars)"
+  },
+  {
+    "q": "Greatness is born from the willingness to keep trying.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "Life begins at the edge of your comfort zone.",
+    "a": "Neale Donald Walsch"
+  },
+  {
+    "q": "Everything you’ve ever wanted is on the other side of fear.",
+    "a": "George Addair"
+  },
+  {
+    "q": "Challenges are gifts that force us to search for a new center of gravity.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "Even the smallest person can change the course of the future.",
+    "a": "Frodo Baggins (The Lord of the Rings anime references)"
+  },
+  {
+    "q": "Patience attracts happiness; it brings near that which is far.",
+    "a": "Swami Sivananda"
+  },
+  {
+    "q": "Choose progress over perfection.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Give the world a reason to remember your name.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success is the progressive realization of a worthy goal or ideal.",
+    "a": "Earl Nightingale"
+  },
+  {
+    "q": "Effort compounds even when progress feels invisible.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If nothing changes, nothing changes.",
+    "a": "Courtney C. Stevens"
+  },
+  {
+    "q": "One often meets his destiny on the path he takes to avoid it.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Sometimes, the risk isn’t jumping. It’s staying still.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes, resilience is just getting up one more time.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "It is better to light one small candle than to curse the darkness.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Just because it’s taking time doesn’t mean it’s not working.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don't let the noise of the world silence your inner voice.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your limits are only in your mind.",
+    "a": "Saitama (One Punch Man)"
+  },
+  {
+    "q": "Discomfort is proof that you're stretching beyond your past.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Believe in yourself and all that you are.",
+    "a": "Christian D. Larson"
+  },
+  {
+    "q": "You create your own destiny with every choice.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "Be happy, but never satisfied.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Success doesn’t come to you, you go to it.",
+    "a": "Marva Collins"
+  },
+  {
+    "q": "A true warrior fights not because he hates what is in front of him, but because he loves what is behind him.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Be the energy you want to attract.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The key to everything is patience. You get the chicken by hatching the egg, not by smashing it.",
+    "a": "Arnold H. Glasow"
+  },
+  {
+    "q": "When you have power, you don’t have to tell people you have power.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "You can outgrow your fears with repetition.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When you feel like quitting, think about why you started.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Fear is just the first step toward courage.",
+    "a": "Kakashi Hatake (Naruto)"
+  },
+  {
+    "q": "You define your own life. Don’t let other people write your script.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "What if everything you’re going through is growing you for something greater?",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The journey to greatness begins with a single step.",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "Successful people are simply those with successful habits.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "When you have a dream, you must protect it.",
+    "a": "Chris Gardner (The Pursuit of Happyness anime inspired)"
+  },
+  {
+    "q": "Honor your effort even when results are invisible.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your quiet perseverance is louder than a thousand failures.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Make today your testimony.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are not your mistakes—you are your next move.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "a": "Henry David Thoreau"
+  },
+  {
+    "q": "Never stop dreaming, no matter how old you get.",
+    "a": "Anne Shirley (Anne with an E)"
+  },
+  {
+    "q": "We need to fight for freedom with every ounce of strength we have.",
+    "a": "Eren Yeager"
+  },
+  {
+    "q": "Let the lessons be heavier than the losses.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Work hard, stay positive, and get up early. It’s the best part of the day.",
+    "a": "George Allen Sr."
+  },
+  {
+    "q": "It’s not the load that breaks you, but how you carry it.",
+    "a": "Lou Holtz"
+  },
+  {
+    "q": "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, ‘I will try again tomorrow.’",
+    "a": "Mary Anne Radmacher"
+  },
+  {
+    "q": "You're allowed to start over. This time with experience.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes you win, sometimes you learn.",
+    "a": "John Maxwell"
+  },
+  {
+    "q": "You’re not late. You’re right on time for your life.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "There’s no shortcut to any place worth going.",
+    "a": "Beverly Sills (Portrayed in The Marvelous Mrs. Maisel)"
+  },
+  {
+    "q": "The successful warrior is the average man, with laser-like focus.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Let your dreams be bigger than your fears.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Being challenged in life is inevitable. Being defeated is optional.",
+    "a": "Roger Crawford"
+  },
+  {
+    "q": "Let go of needing validation. Create anyway.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Do what you love and the money will follow.",
+    "a": "Marsha Sinetar"
+  },
+  {
+    "q": "One step forward is always better than no steps at all.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t watch the waves, learn to surf.",
+    "a": "Jon Kabat-Zinn"
+  },
+  {
+    "q": "Work hard in silence, let your results make the noise.",
+    "a": "Frank Ocean"
+  },
+  {
+    "q": "Make peace with pressure—it sharpens your edge.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The dream you’re afraid of is the one worth chasing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Creativity takes courage.",
+    "a": "Henri Matisse"
+  },
+  {
+    "q": "Success is stitched from the threads of daily decisions.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Courage is grace under pressure.",
+    "a": "Ernest Hemingway"
+  },
+  {
+    "q": "What we fear doing most is usually what we most need to do.",
+    "a": "Tim Ferriss"
+  },
+  {
+    "q": "You become magnetic when you believe in yourself.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A lesson without struggle is a lesson forgotten.",
+    "a": "Hinata Hyuga (Naruto)"
+  },
+  {
+    "q": "Dream big, work hard, stay focused, and surround yourself with good people.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The best revenge is massive success.",
+    "a": "Frank Sinatra"
+  },
+  {
+    "q": "The greatest mistake you can make in life is to be continually fearing you will make one.",
+    "a": "Elbert Hubbard"
+  },
+  {
+    "q": "It’s not about perfect. It’s about effort.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You can always rise from the ashes.",
+    "a": "Natsu Dragneel (Fairy Tail)"
+  },
+  {
+    "q": "Strength grows in the moments when you think you can’t go on but you keep going anyway.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The harder you work for something, the greater you’ll feel when you achieve it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t let your struggle become your identity.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "We may encounter many defeats but we must not be defeated.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "If you love life, don’t waste time, for time is what life is made up of.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Stop doubting the seeds you’ve planted.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Discipline shows up when motivation sits out.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes the longest journey we make is the journey inward.",
+    "a": "Dag Hammarskjöld"
+  },
+  {
+    "q": "Every artist was first an amateur.",
+    "a": "Ralph Waldo Emerson"
+  },
+  {
+    "q": "Say yes to the future and no to fear.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "We are defined not by our powers but by our actions.",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "Don’t wait. The time will never be just right.",
+    "a": "Napoleon Hill"
+  },
+  {
+    "q": "Learn to rest, not abandon.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You owe it to yourself to become everything you’ve ever dreamed of being.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The difference between ordinary and extraordinary is that little extra.",
+    "a": "Jimmy Johnson"
+  },
+  {
+    "q": "Even unfinished progress is progress.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You will never always be motivated, so you must learn to be disciplined.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Winners are not afraid of losing. But losers are. Failure is part of the process of success.",
+    "a": "Robert Kiyosaki"
+  },
+  {
+    "q": "Discipline yourself and others won't need to.",
+    "a": "John Wooden"
+  },
+  {
+    "q": "The will to win, the desire to succeed, the urge to reach your full potential… these are the keys that will unlock the door to personal excellence.",
+    "a": "Confucius"
+  },
+  {
+    "q": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger.",
+    "a": "Confucius"
+  },
+  {
+    "q": "The only real limitation on your abilities is where you place your focus.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The strongest people are those who fight for others.",
+    "a": "All Might (My Hero Academia)"
+  },
+  {
+    "q": "If you really want to do something, you’ll find a way. If you don’t, you’ll find an excuse.",
+    "a": "Jim Rohn"
+  },
+  {
+    "q": "Some people wait for the light at the end of the tunnel. Others light it themselves.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You already overcame things you thought would break you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You should never feel ashamed of doing what’s right.",
+    "a": "All Might (My Hero Academia)"
+  },
+  {
+    "q": "Action beats overthinking every time.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "a": "Eleanor Roosevelt"
+  },
+  {
+    "q": "The world isn’t perfect. It’s like this because people have forgotten how to love.",
+    "a": "Zero Two (Darling in the Franxx)"
+  },
+  {
+    "q": "You were born to be real, not to be perfect.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If people are doubting how far you can go, go so far that you can’t hear them anymore.",
+    "a": "Michele Ruiz"
+  },
+  {
+    "q": "Success starts with self-discipline.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success isn’t just about what you accomplish, it’s about what you inspire others to do.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Successful people are always looking for opportunities to help others.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "When the pain of staying the same outweighs the pain of change, you’ll change.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success isn’t always about greatness. It’s about consistency.",
+    "a": "Dwayne ‘The Rock’ Johnson"
+  },
+  {
+    "q": "Every journey begins with a single step.",
+    "a": "Bilbo Baggins (The Lord of the Rings)"
+  },
+  {
+    "q": "Believe you can and you're halfway there.",
+    "a": "Theodore Roosevelt"
+  },
+  {
+    "q": "There is bravery in stillness and courage in small steps.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When you reach the end of your rope, tie a knot and hang on.",
+    "a": "Franklin D. Roosevelt"
+  },
+  {
+    "q": "One child, one teacher, one book, one pen can change the world.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Be proud of how you’ve been handling these days.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Strength isn’t loud. It’s quiet resilience in the face of doubt.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "What the caterpillar calls the end of the world, the master calls a butterfly.",
+    "a": "Richard Bach"
+  },
+  {
+    "q": "A true hero fights even when the odds are against them.",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "Discipline is remembering what you want more than what you feel.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The best dreams happen when you're awake.",
+    "a": "Cherie Gilderbloom (Referenced in media)"
+  },
+  {
+    "q": "Stay hungry, stay foolish.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "The true measure of leadership is influence – nothing more, nothing less.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "When something is important enough, you do it even if the odds are not in your favor.",
+    "a": "Elon Musk"
+  },
+  {
+    "q": "If the plan doesn’t work, change the plan, not the goal.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The clearest way into the Universe is through a forest wilderness.",
+    "a": "John Muir"
+  },
+  {
+    "q": "Courage is not the absence of fear, but the triumph over it.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "To protect those you love is the greatest strength.",
+    "a": "Vegeta (Dragon Ball Z)"
+  },
+  {
+    "q": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "a": "Roy T. Bennett"
+  },
+  {
+    "q": "Fall in love with improvement, not applause.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Hard work is worthless for those that don’t believe in themselves.",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "Make your struggle your strength.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your dreams are waiting on your discipline.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "No one knows what the future holds. That's why its potential is infinite.",
+    "a": "Rintarou Okabe (Steins;Gate)"
+  },
+  {
+    "q": "When you focus on the good, the good gets better.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "I have no special talent. I am only passionately curious.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "Everything changes when you stop waiting for permission.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "I have no regrets. That’s not the same as wishing I’d done things differently.",
+    "a": "Levi Ackerman (Attack on Titan)"
+  },
+  {
+    "q": "The future belongs to the consistent, not just the talented.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don't be afraid to give up the good to go for the great.",
+    "a": "John D. Rockefeller"
+  },
+  {
+    "q": "If you're tired, learn to rest, not quit.",
+    "a": "Banksy"
+  },
+  {
+    "q": "True strength is forged in the fire of adversity.",
+    "a": "Goku (Dragon Ball Z)"
+  },
+  {
+    "q": "There are no accidents.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "The future belongs to those who believe.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "It's not who you are that holds you back—it's who you think you're not.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Peace begins when expectations end.",
+    "a": "Sri Chinmoy"
+  },
+  {
+    "q": "Your growth may be invisible now, but it’s happening.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your dreams are worth fighting for.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "The grind will bless you in ways rest never could.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Failure doesn’t mean you’re done—it means you’ve learned.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Healing doesn’t mean forgetting—it means releasing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Dream bigger. Do bigger.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The only true failure is quitting.",
+    "a": "Rock Lee (Naruto)"
+  },
+  {
+    "q": "Persistence is the bridge between goals and achievement.",
+    "a": "Jim Rohn"
+  },
+  {
+    "q": "Your discipline is your secret weapon.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The world is shaped by those who dare to act.",
+    "a": "Eren Yeager (Attack on Titan)"
+  },
+  {
+    "q": "The more we value things, the less we value ourselves.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "Fall in love with process, not just the prize.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You can’t cross the sea merely by standing and staring at the water.",
+    "a": "Rabindranath Tagore"
+  },
+  {
+    "q": "Don’t lower your standards to fit in. Raise your standards so others can meet you there.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are more than what you’ve been through.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t stop when you’re tired. Stop when you’re done.",
+    "a": "Marilyn Monroe"
+  },
+  {
+    "q": "The difference between the novice and the master is that the master has failed more times than the novice has tried.",
+    "a": "Koro-sensei (Assassination Classroom)"
+  },
+  {
+    "q": "Your ability to keep going is your greatest power.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "There is always something more to learn.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "A strong heart doesn’t just mean a powerful heart. A strong heart bears all the pain and still moves forward.",
+    "a": "Sora (Kingdom Hearts anime scenes)"
+  },
+  {
+    "q": "If you want to lift yourself up, lift up someone else.",
+    "a": "Booker T. Washington"
+  },
+  {
+    "q": "Every moment is a fresh beginning.",
+    "a": "T.S. Eliot"
+  },
+  {
+    "q": "Sometimes, survival is the most courageous thing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success? I don’t know what that word means. I’m happy. But success, that goes back to what in somebody’s eyes success means.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "You are not fragile—you are unfolding.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are the author of your own story.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "a": "Og Mandino"
+  },
+  {
+    "q": "You get stronger every time you choose growth over comfort.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A person grows when he is faced with tough circumstances.",
+    "a": "Kenshin Himura (Rurouni Kenshin)"
+  },
+  {
+    "q": "It’s not the face that makes someone a monster; it’s the choices they make with their lives.",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "Don’t wait for fate, shape it with your own hands.",
+    "a": "Eren Yeager (Attack on Titan)"
+  },
+  {
+    "q": "He who is brave is free.",
+    "a": "Seneca"
+  },
+  {
+    "q": "Fear is not evil. It only becomes evil when you allow it to control you.",
+    "a": "Shinichi Izumi (Parasyte)"
+  },
+  {
+    "q": "Don’t dim your light just because it’s bright.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "It’s not the load that breaks you down, it’s the way you carry it.",
+    "a": "Lou Holtz"
+  },
+  {
+    "q": "Your ability to discipline yourself to set clear goals and then to work toward them every day will do more to guarantee your success than any other single factor.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow up beautifully.",
+    "a": "Koro-sensei (Assassination Classroom)"
+  },
+  {
+    "q": "The past is history, the future is a mystery, but today is a gift. That is why it is called the present.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "A dream is worth fighting for, no matter how impossible it seems.",
+    "a": "Luffy (One Piece)"
+  },
+  {
+    "q": "No storm lasts forever. Stay rooted.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something in return.",
+    "a": "Pain (Naruto)"
+  },
+  {
+    "q": "Do not let what you cannot do interfere with what you can do.",
+    "a": "John Wooden"
+  },
+  {
+    "q": "The best time for new beginnings is now.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You’ve done hard things before. You can do this too.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Some people dream of success, others wake up and work for it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Quit waiting for permission to go after what you want.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A goal is not always meant to be reached; it often serves simply as something to aim at.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "To live a creative life, we must lose our fear of being wrong.",
+    "a": "Joseph Chilton Pearce"
+  },
+  {
+    "q": "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Happiness depends upon ourselves.",
+    "a": "Aristotle"
+  },
+  {
+    "q": "Don’t be afraid to start over. It’s a new chance to rebuild what you want.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The future is in your hands. So take it and shape it.",
+    "a": "Armin Arlert"
+  },
+  {
+    "q": "We need much less than we think we need.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "I've learned that you shouldn't go through life with a catcher's mitt on both hands; you need to be able to throw something back.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Trust the pace of your journey.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are built from stories of survival, not defeat.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t fear failure. Fear being in the same place next year.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Why do we fall? So we can learn to pick ourselves up.",
+    "a": "Thomas Wayne (The Dark Knight)"
+  },
+  {
+    "q": "Courage isn’t loud. It’s choosing to try again, quietly.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Some of your best chapters are still being written in silence.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Let failure refine you, not define you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Discipline will carry you when motivation fades.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Stop shrinking to make others comfortable. Shine fully.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Show up with heart, even when it’s heavy.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "It’s okay to start over. This time, you're not starting from scratch—you’re starting from experience.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The moon is a loyal companion. It never leaves. It’s always there, watching, steadfast.",
+    "a": "Tahereh Mafi"
+  },
+  {
+    "q": "Your mindset makes the mission.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Fire is the test of gold; adversity, of strong men.",
+    "a": "Mahatma Gandhi"
+  },
+  {
+    "q": "Strive not to be a success, but rather to be of value.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "What consumes your mind, controls your life.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The tallest oak in the forest was once just a little nut that held its ground.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When you arise in the morning, think of what a privilege it is to be alive.",
+    "a": "Marcus Aurelius"
+  },
+  {
+    "q": "Let your life be your message.",
+    "a": "Mahatma Gandhi"
+  },
+  {
+    "q": "Every step forward, no matter how small, is a step closer.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "In our society, letting others find out that you're a nice guy is a very risky move. It's extremely likely that someone would take advantage of that.",
+    "a": "Hitagi Senjougahara (Bakemonogatari)"
+  },
+  {
+    "q": "The only limit to our realization of tomorrow is our doubts of today.",
+    "a": "Franklin D. Roosevelt"
+  },
+  {
+    "q": "Sometimes, choosing peace is the most radical act.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "Your choices define you, not your abilities.",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "True power lies within your heart.",
+    "a": "Goku (Dragon Ball Z)"
+  },
+  {
+    "q": "To achieve something you’ve never had before, you must do something you’ve never done before.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Sometimes the hardest battles are fought within.",
+    "a": "Eleven (Stranger Things)"
+  },
+  {
+    "q": "Comfort is the enemy of progress.",
+    "a": "P.T. Barnum"
+  },
+  {
+    "q": "The road is hard, but your vision is harder to quit.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The best investment is the one you make in yourself.",
+    "a": "Warren Buffett"
+  },
+  {
+    "q": "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Small shifts create massive waves over time.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "To know what you know and what you do not know, that is true knowledge.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Turn your pressure into progress.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Hustle in silence and let your success make the noise.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "a": "Roy T. Bennett"
+  },
+  {
+    "q": "Don’t stop until you’re proud.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t wish it were easier. Wish you were better.",
+    "a": "Jim Rohn"
+  },
+  {
+    "q": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "Without commitment, you’ll never start. Without consistency, you’ll never finish.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "If you want to know who you are, look at what you do.",
+    "a": "Kaneki Ken (Tokyo Ghoul)"
+  },
+  {
+    "q": "One small positive thought in the morning can change your whole day.",
+    "a": "Dalai Lama"
+  },
+  {
+    "q": "Every detour carries a hidden lesson.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You will face many defeats in life, but never let yourself be defeated.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Your potential is louder than your fears.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Never stop fighting for your dreams.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Great things are done by a series of small things brought together.",
+    "a": "Vincent Van Gogh"
+  },
+  {
+    "q": "You weren’t made to follow—you were made to forge.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Every goal begins as a whisper. Don’t ignore it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "No one sees the silent battles, but you still win by fighting them.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A dream doesn’t become reality through magic—it takes sweat, determination, and hard work.",
+    "a": "Colin Powell"
+  },
+  {
+    "q": "Let your legacy be bigger than your comfort.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Winners make a habit of manufacturing their own positive expectations in advance of the event.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Innovation distinguishes between a leader and a follower.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "Success isn't just about what you accomplish in your life; it's about what you inspire others to do.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your energy introduces you before your words.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "To climb up, you must risk falling.",
+    "a": "Eren Yeager"
+  },
+  {
+    "q": "Don't ask life to be easier; ask yourself to grow stronger.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Limit your “always” and your “nevers.”",
+    "a": "Amy Poehler"
+  },
+  {
+    "q": "Everyone has darkness inside them, but it’s the light that defines us.",
+    "a": "Goku (Dragon Ball Z)"
+  },
+  {
+    "q": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "a": "Walt Whitman"
+  },
+  {
+    "q": "Dreams without goals are just dreams, and they ultimately fuel disappointment.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Even failure is a step forward.",
+    "a": "Shoto Todoroki (My Hero Academia)"
+  },
+  {
+    "q": "You weren't born to play small.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Work hard in silence, let success be your noise.",
+    "a": "Frank Ocean"
+  },
+  {
+    "q": "A winner is a dreamer who never gives up.",
+    "a": "Nelson Mandela"
+  },
+  {
+    "q": "The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Your small steps are building something big.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The only person you are destined to become is the person you decide to be.",
+    "a": "Ralph Waldo Emerson"
+  },
+  {
+    "q": "Success is not for the chosen few, but for the few who choose it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don't let the noise of others' opinions drown out your own inner voice.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "The only way out is through.",
+    "a": "Robert Frost"
+  },
+  {
+    "q": "To hell with circumstances; I create opportunities.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Fight not because you want to win, but because you refuse to lose.",
+    "a": "Rock Lee (Naruto)"
+  },
+  {
+    "q": "The greatest discovery of all time is that a person can change their future by merely changing their attitude.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "Keep building what no one else can see.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Failure is the opportunity to begin again, more intelligently.",
+    "a": "Henry Ford (Referenced in films)"
+  },
+  {
+    "q": "Even if you fall on your face, you’re still moving forward.",
+    "a": "Victor Kiam"
+  },
+  {
+    "q": "You cannot see the horizon unless you venture far enough.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The struggle is shaping the strength you’ll need later.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The gap between who you are and who you want to be is action.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your doubt is a lie. Your effort is real.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "There is no substitute for hard work.",
+    "a": "Thomas Edison"
+  },
+  {
+    "q": "The meaning of life is found in the bonds we create.",
+    "a": "Shoyo Hinata (Haikyuu!!)"
+  },
+  {
+    "q": "The world is vast. Don’t let a small moment define your journey.",
+    "a": "Roronoa Zoro (One Piece)"
+  },
+  {
+    "q": "It's not about being the best. It's about being better than you were yesterday.",
+    "a": "Coach Taylor (Friday Night Lights)"
+  },
+  {
+    "q": "The hardest steel is forged in the hottest fire.",
+    "a": "Kenshin Himura (Rurouni Kenshin)"
+  },
+  {
+    "q": "Keep your eyes on the stars and your feet on the ground.",
+    "a": "Theodore Roosevelt"
+  },
+  {
+    "q": "Success is not just making money. Success is happiness. Success is fulfillment; it’s the ability to give.",
+    "a": "Adam Neumann"
+  },
+  {
+    "q": "The next level of you requires new choices.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The world is full of miracles, but you have to open your eyes to see them.",
+    "a": "Hinata Hyuga (Naruto)"
+  },
+  {
+    "q": "Do what is right, not what is easy nor what is popular.",
+    "a": "Roy T. Bennett"
+  },
+  {
+    "q": "You're not behind—you're building depth.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You must do the thing you think you cannot do.",
+    "a": "Eleanor Roosevelt"
+  },
+  {
+    "q": "Difficult roads often lead to beautiful destinations.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Creativity is intelligence having fun.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "Great things take time.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When the whole world is silent, even one voice becomes powerful.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Make peace with your past so it doesn’t ruin your future.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You survived what you thought would break you. Now step into your power.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Stay the course—even if the wind shifts.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "There’s magic in showing up every single day.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Prove to yourself that you can do it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You have the power to say, ‘This is not how my story will end.’",
+    "a": "Christine Mason Miller"
+  },
+  {
+    "q": "Time will either promote you or expose you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If you think reality is just what you see and feel, then you are wrong.",
+    "a": "Reiner Braun"
+  },
+  {
+    "q": "Let your dreams scare you a little and excite you a lot.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your attitude is an important factor in your success or failure.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+    "a": "Colin Powell"
+  },
+  {
+    "q": "The life you want begins the moment you stop settling.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "What you do today can improve all your tomorrows.",
+    "a": "Ralph Marston"
+  },
+  {
+    "q": "There is just news. There is no good or bad.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Leadership is the capacity to translate vision into reality.",
+    "a": "Warren Bennis"
+  },
+  {
+    "q": "You weren’t made to shrink. You were made to rise.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes you have to get knocked down lower than you have ever been to stand back up taller than you ever were.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Push beyond your limits and surprise yourself.",
+    "a": "Saitama (One Punch Man)"
+  },
+  {
+    "q": "Work until your reality looks like your daydream.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Reject common sense to make the impossible possible!",
+    "a": "Simon (Tengen Toppa Gurren Lagann)"
+  },
+  {
+    "q": "Don’t limit your challenges. Challenge your limits.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "To see what is right and not do it is the worst cowardice.",
+    "a": "Confucius"
+  },
+  {
+    "q": "A true hero is someone who can help others even when they are in pain.",
+    "a": "Kakashi Hatake (Naruto)"
+  },
+  {
+    "q": "Education is the most powerful weapon which you can use to change the world.",
+    "a": "Nelson Mandela"
+  },
+  {
+    "q": "Your resolve can change the world.",
+    "a": "Eren Yeager (Attack on Titan)"
+  },
+  {
+    "q": "Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don't belong.",
+    "a": "N.R. Narayana Murthy"
+  },
+  {
+    "q": "You don’t become what you want, you become what you believe.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "Every sunrise is an invitation to rise, too.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes, resilience is just staying soft in a hard world.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Opportunities are usually disguised as hard work, so most people don't recognize them.",
+    "a": "Ann Landers"
+  },
+  {
+    "q": "The biggest adventure you can take is to live the life of your dreams.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "With the new day comes new strength and new thoughts.",
+    "a": "Eleanor Roosevelt"
+  },
+  {
+    "q": "You can always choose who you want to be.",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "You should think more about what you can do instead of what you can’t.",
+    "a": "Hange Zoë"
+  },
+  {
+    "q": "Motivation gets you going, but discipline keeps you growing.",
+    "a": "John C. Maxwell"
+  },
+  {
+    "q": "Dream it. Wish it. Do it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "It’s simple: You get what you settle for.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Be the proof that it’s possible.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The best revenge is massive success in silence.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Commit yourself to lifelong learning. The most valuable asset you’ll ever have is your mind and what you put into it.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Your progress is proof that you can evolve.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "To protect something, you must be willing to sacrifice everything.",
+    "a": "Itachi Uchiha (Naruto)"
+  },
+  {
+    "q": "If you don’t fight, you can’t win.",
+    "a": "Eren Yeager"
+  },
+  {
+    "q": "Don’t count the days, make the days count.",
+    "a": "Muhammad Ali"
+  },
+  {
+    "q": "Doing the best at this moment puts you in the best place for the next moment.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "One day or day one. You decide.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Let us remember: One book, one pen, one child, and one teacher can change the world.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Learning never exhausts the mind.",
+    "a": "Leonardo da Vinci"
+  },
+  {
+    "q": "The great mistake is to anticipate the outcome of the engagement; you ought not to be thinking of whether it ends in victory or defeat.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Your silence can still be strength.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Peace in every home and in every heart, that is my prayer.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "The beautiful thing about learning is nobody can take it away from you.",
+    "a": "B.B. King"
+  },
+  {
+    "q": "Courage isn’t the absence of fear; it’s acting despite fear.",
+    "a": "All Might (My Hero Academia)"
+  },
+  {
+    "q": "Success is not for the lazy.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You’re building something beautiful that no one sees yet.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You’re never alone if you have friends by your side.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Don’t wait for the perfect moment. Take the moment and make it perfect.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "We are more alike, my friends, than we are unalike.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Don’t let the fear of losing be greater than the excitement of winning.",
+    "a": "Robert Kiyosaki (Referenced in motivational talks)"
+  },
+  {
+    "q": "If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles.",
+    "a": "Wayne Dyer"
+  },
+  {
+    "q": "I never dreamed about success. I worked for it.",
+    "a": "Estee Lauder"
+  },
+  {
+    "q": "I think a role model is a mentor – someone you see on a daily basis, and you learn from them.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Make each day your masterpiece.",
+    "a": "John Wooden"
+  },
+  {
+    "q": "You cannot explore new oceans unless you have the courage to lose sight of the shore.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Being weak is nothing to be ashamed of… Staying weak is!",
+    "a": "Fuegoleon Vermillion (Black Clover)"
+  },
+  {
+    "q": "Success is getting what you want. Happiness is wanting what you get.",
+    "a": "Dale Carnegie"
+  },
+  {
+    "q": "Your time is limited, so don’t waste it living someone else’s life.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "Action silences doubt.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A real man chooses to protect others, even when it costs him everything.",
+    "a": "Kenshin Himura (Rurouni Kenshin)"
+  },
+  {
+    "q": "Sometimes, the greatest power is simply to refuse to give up.",
+    "a": "Shoyo Hinata (Haikyuu!!)"
+  },
+  {
+    "q": "It’s going to be hard, but hard does not mean impossible.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Progress is made by those willing to take the first step with trembling legs.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your passion is waiting for your courage to catch up.",
+    "a": "Isabelle Lafleche"
+  },
+  {
+    "q": "You can’t calm the storm, so stop trying. What you can do is calm yourself. The storm will pass.",
+    "a": "Timber Hawkeye"
+  },
+  {
+    "q": "Inner peace, inner peace. Inner peace is good for the mind, heart, and soul.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "To plant a garden is to believe in tomorrow.",
+    "a": "Audrey Hepburn"
+  },
+  {
+    "q": "I want to become the kind of person who can help others.",
+    "a": "Tanjiro Kamado (Demon Slayer)"
+  },
+  {
+    "q": "Strength comes from protecting others, not just yourself.",
+    "a": "All Might (My Hero Academia)"
+  },
+  {
+    "q": "Every no brings you closer to the right yes.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are what you do consistently, not occasionally.",
+    "a": "James Clear"
+  },
+  {
+    "q": "Everything has beauty, but not everyone sees it.",
+    "a": "Confucius"
+  },
+  {
+    "q": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "Never underestimate the power of your dreams.",
+    "a": "Hikaru Shindo (Hikaru no Go)"
+  },
+  {
+    "q": "Don't aspire to make a living, aspire to make a difference.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Turn your wounds into wisdom.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "A smooth sea never made a skilled sailor.",
+    "a": "Franklin D. Roosevelt"
+  },
+  {
+    "q": "Try not to become a man of success, but rather try to become a man of value.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "Let go of the timeline and trust the transformation.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Keep watering yourself. You’re growing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Where there is no struggle, there is no strength.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "The only thing we're allowed to do is to believe that we won't regret the choice we made.",
+    "a": "Levi Ackerman"
+  },
+  {
+    "q": "Determination is the key to unlocking your potential.",
+    "a": "Hinata Hyuga (Naruto)"
+  },
+  {
+    "q": "No one can take away your dreams unless you let them.",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "You can outwork talent with consistency.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "This season is shaping you, not breaking you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If you're going through hell, keep going.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "It always seems impossible until it’s done.",
+    "a": "Nelson Mandela"
+  },
+  {
+    "q": "Power comes in response to a need, not a desire. You have to create that need.",
+    "a": "Goku (Dragon Ball Z)"
+  },
+  {
+    "q": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "a": "Mahatma Gandhi"
+  },
+  {
+    "q": "You can be a masterpiece and still under construction.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If you want to be successful, find someone who has achieved the results you want and copy what they do.",
+    "a": "Tony Robbins"
+  },
+  {
+    "q": "You don't owe anyone the version of you that pleases them.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are the answer to the question your past self used to ask.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your current struggle is preparing the stage for your breakthrough.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.",
+    "a": "Thich Nhat Hanh"
+  },
+  {
+    "q": "You have to expect things of yourself before you can do them.",
+    "a": "Michael Jordan"
+  },
+  {
+    "q": "The things that are most worth doing are often the most difficult.",
+    "a": "Daenerys Targaryen (Game of Thrones)"
+  },
+  {
+    "q": "The best leaders are those most interested in surrounding themselves with assistants and associates smarter than they are.",
+    "a": "John C. Maxwell"
+  },
+  {
+    "q": "The key to success is to focus on goals, not obstacles.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "When anger rises, think of the consequences.",
+    "a": "Confucius"
+  },
+  {
+    "q": "The only way to achieve the impossible is to believe it is possible.",
+    "a": "Charles Kingsleigh (Alice in Wonderland)"
+  },
+  {
+    "q": "Dreams don’t work unless you do.",
+    "a": "John C. Maxwell"
+  },
+  {
+    "q": "You have to grab moments when they happen. I like to improvise and ad-lib.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Your path won’t look like anyone else’s—and that’s your power.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Act like a lady, think like a boss.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your mind is like water. When it’s turbulent, it’s difficult to see. When it’s calm, everything becomes clear.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "The next breakthrough is already on the way. Keep going.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your value doesn’t decrease based on someone’s inability to see your worth.",
+    "a": "Zig Ziglar"
+  },
+  {
+    "q": "The greatest gift that you can give to others is the gift of unconditional love and acceptance.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.",
+    "a": "Roy T. Bennett"
+  },
+  {
+    "q": "The desire to reach for the stars is ambitious. The desire to reach hearts is wise.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Success isn’t about the end result, it’s about what you learn along the way.",
+    "a": "Vera Wang"
+  },
+  {
+    "q": "Keep going. Be all in.",
+    "a": "Bryan Hutchinson"
+  },
+  {
+    "q": "Stars can't shine without darkness.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your next chapter is going to be amazing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success starts with believing it’s possible.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t just survive—thrive.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If it doesn’t challenge you, it won’t change you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Each challenge is a conversation with your strength.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The soul always knows what to do to heal itself.",
+    "a": "Carl Jung"
+  },
+  {
+    "q": "Every scar is a story of survival.",
+    "a": "Guts (Berserk)"
+  },
+  {
+    "q": "At the end of the day, it’s not about what you have or even what you’ve accomplished. It’s about who you’ve lifted up, who you’ve made better.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Goals allow you to control the direction of change in your favor.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Keep taking time for yourself until you’re you again.",
+    "a": "Lalah Delia"
+  },
+  {
+    "q": "Your value isn't tied to how busy you are.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success is in the follow-through, not the start.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t water down your fire to keep others warm.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.",
+    "a": "Pelé"
+  },
+  {
+    "q": "Strength grows when you protect others.",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "You are the only one who can use your ability. It is an awesome responsibility.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Only put off until tomorrow what you are willing to die having left undone.",
+    "a": "Pablo Picasso"
+  },
+  {
+    "q": "Let the fire inside you burn louder than the doubt outside you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success comes from having dreams that are bigger than your fears.",
+    "a": "Billy Cox"
+  },
+  {
+    "q": "Every great achievement was once considered impossible.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Small deeds done are better than great deeds planned.",
+    "a": "Peter Marshall"
+  },
+  {
+    "q": "Everything you do today is preparing you for tomorrow.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Your story may not have such a happy beginning but that does not make you who you are, it is the rest of your story, who you choose to be.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Rise up, even if the world is against you.",
+    "a": "Natsu Dragneel (Fairy Tail)"
+  },
+  {
+    "q": "In the space between doubt and decision is destiny.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your past does not define your future.",
+    "a": "Kaneki Ken (Tokyo Ghoul)"
+  },
+  {
+    "q": "The dream is free. The hustle is sold separately.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes the things we can’t change are what make us who we are.",
+    "a": "Shoyo Hinata (Haikyuu!!)"
+  },
+  {
+    "q": "Passion is energy. Feel the power that comes from focusing on what excites you.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "The secret to success is to know something nobody else knows.",
+    "a": "Aristotle Onassis"
+  },
+  {
+    "q": "Success is the result of preparation, hard work, and learning from failure.",
+    "a": "Colin Powell"
+  },
+  {
+    "q": "Energy and persistence conquer all things.",
+    "a": "Benjamin Franklin"
+  },
+  {
+    "q": "You pray for rain, you gotta deal with the mud too. That’s a part of it.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Be relentless in pursuit of your goals, not approval.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The strength of a nation derives from the integrity of the home.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Success is achieved and maintained by those who try and keep trying.",
+    "a": "W. Clement Stone"
+  },
+  {
+    "q": "Do something today that your future self will thank you for.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t let yesterday take up too much of today.",
+    "a": "Will Rogers"
+  },
+  {
+    "q": "The hardest part is starting. Do that today.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Good things come to people who wait, but better things come to those who go out and get them.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The only thing more terrifying than a monster is a human without a heart.",
+    "a": "Levi Ackerman"
+  },
+  {
+    "q": "Try to be a rainbow in someone's cloud.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Even if I can't do it now, I will get stronger and accomplish it!",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "Your present circumstances don’t determine where you can go. They merely determine where you start.",
+    "a": "Nido Qubein"
+  },
+  {
+    "q": "Look deep into nature, and then you will understand everything better.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "Every next level of your life will demand a different version of you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Confidence is built by showing up when it’s hardest to.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Keep building, even when applause is absent.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The world isn’t perfect. But it’s there for us, doing the best it can… that’s what makes it so damn beautiful.",
+    "a": "Roy Mustang (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "You alone are enough. You have nothing to prove to anybody.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Action is the foundational key to all success.",
+    "a": "Pablo Picasso"
+  },
+  {
+    "q": "Some men just want to watch the world burn.",
+    "a": "Alfred (The Dark Knight)"
+  },
+  {
+    "q": "Surround yourself with the dreamers and the doers, the believers and thinkers.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "Everything you can imagine is real.",
+    "a": "Pablo Picasso"
+  },
+  {
+    "q": "Pain is temporary. Quitting lasts forever.",
+    "a": "Lance Armstrong (Movie: The Program)"
+  },
+  {
+    "q": "The harder you fall, the higher you bounce.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Discomfort is the cost of growth.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes, we have to let go of the past to move forward.",
+    "a": "Hinata Hyuga (Naruto)"
+  },
+  {
+    "q": "Don’t judge each day by the harvest you reap but by the seeds that you plant.",
+    "a": "Robert Louis Stevenson"
+  },
+  {
+    "q": "You don’t have to be great to start, but you have to start to be great.",
+    "a": "Zig Ziglar"
+  },
+  {
+    "q": "This world is cruel, but also very beautiful.",
+    "a": "Mikasa Ackerman"
+  },
+  {
+    "q": "The bird fights its way out of the egg. The egg is the world. Who would be born must destroy a world.",
+    "a": "Hermann Hesse"
+  },
+  {
+    "q": "Knowing yourself is the beginning of all wisdom.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Perseverance is not a long race; it is many short races one after the other.",
+    "a": "Walter Elliot"
+  },
+  {
+    "q": "When you learn, teach. When you get, give.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Difficulties strengthen the mind, as labor does the body.",
+    "a": "Seneca"
+  },
+  {
+    "q": "You are someone’s reason to believe in good people.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Even stars need darkness to shine.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "I want to be stronger than I was yesterday.",
+    "a": "Ken Kaneki (Tokyo Ghoul)"
+  },
+  {
+    "q": "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Success is the child of persistence.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "The only place where success comes before work is in the dictionary.",
+    "a": "Vidal Sassoon"
+  },
+  {
+    "q": "Let your grit write your legacy.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You’ll thank yourself for not giving up.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If you want to fly, give up everything that weighs you down.",
+    "a": "Buddha"
+  },
+  {
+    "q": "Become so consistent they can't tell if you're motivated or not.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "You don’t need to feel ready—you need to begin.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "What you do in the dark prepares you for the spotlight.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Knowing is not enough, we must apply. Willing is not enough, we must do.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "The harder the conflict, the more glorious the triumph.",
+    "a": "Thomas Paine"
+  },
+  {
+    "q": "A little progress each day adds up to big results.",
+    "a": "Satya Nani"
+  },
+  {
+    "q": "What we do in life echoes in eternity.",
+    "a": "Maximus (Gladiator)"
+  },
+  {
+    "q": "Don’t limit yourself. Many people limit themselves to what they think they can do.",
+    "a": "Mary Kay Ash"
+  },
+  {
+    "q": "Motivation is what gets you started. Habit is what keeps you going.",
+    "a": "Jim Ryun"
+  },
+  {
+    "q": "You are the lighthouse for someone else's storm.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Take up space. Take the leap. Take the win.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are not running out of time. You’re unfolding at your own pace.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You weren’t born to blend in. You were made to stand out.",
+    "a": "Dr. Seuss"
+  },
+  {
+    "q": "You’re not stuck. You’re just being redirected.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Be so focused on your path that distractions no longer appeal.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your resilience is louder than any rejection.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A champion is defined not by their wins but by how they recover when they fall.",
+    "a": "Serena Williams"
+  },
+  {
+    "q": "Not all progress is visible. Trust the roots.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "All our dreams can come true, if we have the courage to pursue them.",
+    "a": "Walt Disney"
+  },
+  {
+    "q": "It's not about being the strongest, but about being the most determined.",
+    "a": "Shigaraki Tomura (My Hero Academia)"
+  },
+  {
+    "q": "Work hard in silence, let success make the noise.",
+    "a": "Frank Ocean (Referenced in media)"
+  },
+  {
+    "q": "The world is cruel, but it's also beautiful.",
+    "a": "Mikasa Ackerman (Attack on Titan)"
+  },
+  {
+    "q": "Success is the sum of small efforts, repeated day in and day out.",
+    "a": "Robert Collier"
+  },
+  {
+    "q": "The bamboo that bends is stronger than the oak that resists.",
+    "a": "Japanese Proverb"
+  },
+  {
+    "q": "No matter how messed up things get, you can always do something about it.",
+    "a": "Mikasa Ackerman"
+  },
+  {
+    "q": "Don’t let your fear control you.",
+    "a": "Kakashi Hatake (Naruto)"
+  },
+  {
+    "q": "The biggest risk is not taking any risk.",
+    "a": "Mark Zuckerberg"
+  },
+  {
+    "q": "The real glow-up is becoming confident in who you are.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
+    "a": "Nelson Mandela"
+  },
+  {
+    "q": "The true path to victory is to find your opponent’s weakness and make him suffer for it.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Develop the winning edge, learn from your mistakes, and apply what you learn.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Growth feels like discomfort before it looks like progress.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Fall in love with becoming the best version of yourself.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The world is filled with pain, but that pain is what makes us strong.",
+    "a": "Eren Yeager"
+  },
+  {
+    "q": "When you have faults, do not fear to abandon them.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Wake up with determination. Go to bed with satisfaction.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Nothing will work unless you do.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Choose a job you love, and you will never have to work a day in your life.",
+    "a": "Confucius"
+  },
+  {
+    "q": "If you want to know who you are, you have to look at your past.",
+    "a": "Kaneki Ken (Tokyo Ghoul)"
+  },
+  {
+    "q": "The breakthrough often comes just after the breakdown.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Do the best you can until you know better. Then when you know better, do better.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "The world is merciless, and it’s also very beautiful.",
+    "a": "Mikasa Ackerman"
+  },
+  {
+    "q": "Every challenge is an opportunity in disguise.",
+    "a": "Tanjiro Kamado (Demon Slayer)"
+  },
+  {
+    "q": "Success is earned, never given.",
+    "a": "Goku (Dragon Ball Z)"
+  },
+  {
+    "q": "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder.",
+    "a": "Mikasa Ackerman"
+  },
+  {
+    "q": "Self-discipline begins with the mastery of your thoughts.",
+    "a": "Napoleon Hill"
+  },
+  {
+    "q": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "a": "Confucius"
+  },
+  {
+    "q": "You were not born to be average.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You cannot swim for new horizons until you have courage to lose sight of the shore.",
+    "a": "William Faulkner"
+  },
+  {
+    "q": "Effort only fully releases its reward after a person refuses to quit.",
+    "a": "Napoleon Hill"
+  },
+  {
+    "q": "Be yourself; everyone else is already taken.",
+    "a": "Oscar Wilde"
+  },
+  {
+    "q": "Stay close to anything that makes you feel alive.",
+    "a": "Hafiz"
+  },
+  {
+    "q": "Fear is loud; truth whispers. Listen closely.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The only way to win is to never give up.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "The harder the battle, the sweeter the victory.",
+    "a": "Les Brown"
+  },
+  {
+    "q": "Determination can move mountains.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Every champion was once a contender who refused to give up.",
+    "a": "Rocky Balboa (Rocky)"
+  },
+  {
+    "q": "It does not matter how slowly you go as long as you do not stop.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Success is not about being the best. It’s about always getting better.",
+    "a": "Behance"
+  },
+  {
+    "q": "Effort never betrays you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "This is not your final form.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your comeback will be stronger than your setback.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Unapologetically chase what sets your soul on fire.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Nature does not hurry, yet everything is accomplished.",
+    "a": "Lao Tzu"
+  },
+  {
+    "q": "Success is not the absence of failure; it’s the persistence through failure.",
+    "a": "Aisha Tyler"
+  },
+  {
+    "q": "Even small progress is worth celebrating.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on his own.",
+    "a": "Jiraiya (Naruto)"
+  },
+  {
+    "q": "You’re already further than you think.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your silence is your power. Let your actions speak louder.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Hope is the light that guides us through darkness.",
+    "a": "Zero Two (Darling in the Franxx)"
+  },
+  {
+    "q": "A leader is one who knows the way, goes the way, and shows the way.",
+    "a": "John C. Maxwell"
+  },
+  {
+    "q": "The scars you share become lighthouses for other people.",
+    "a": "Brené Brown"
+  },
+  {
+    "q": "The wound is the place where the light enters you.",
+    "a": "Rumi"
+  },
+  {
+    "q": "If you win, you live. If you lose, you die. If you don’t fight, you can’t win!",
+    "a": "Eren Yeager"
+  },
+  {
+    "q": "Bet on yourself. That’s the safest gamble.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The resistance you feel is the weight of future strength.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "Sometimes the bravest thing you can do is keep going.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t be afraid to stand up for what you believe in.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "Even broken crayons can still color.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You have to accept that you can’t live without making difficult decisions.",
+    "a": "Erwin Smith"
+  },
+  {
+    "q": "You don't grow when things are easy; you grow when you face challenges.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes, your only competition is yesterday.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Fear is a question: What are you afraid of, and why? Just as the seed of health is in illness, because illness contains information, your fears are a treasure house of self-knowledge if you explore them.",
+    "a": "Marianne Williamson"
+  },
+  {
+    "q": "You don't need a plan. You need to start.",
+    "a": "Marie Forleo"
+  },
+  {
+    "q": "Your inner voice knows the way—listen closely.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Magic is believing in yourself. If you can do that, you can make anything happen.",
+    "a": "Johann Wolfgang von Goethe"
+  },
+  {
+    "q": "Nothing can dim the light that shines from within.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "The inner work always shows on the outside.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Be brave enough to suck at something new.",
+    "a": "Jon Acuff"
+  },
+  {
+    "q": "The road to success and the road to failure are almost exactly the same.",
+    "a": "Colin R. Davis"
+  },
+  {
+    "q": "Stay loyal to your growth even when it’s lonely.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your effort will echo even in silence.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You don’t have to be loud to be powerful.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The most important conversation is the one you have with yourself.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If you want light to come into your life, you need to stand where it is shining.",
+    "a": "Guy Finley"
+  },
+  {
+    "q": "Goals on the road to achievement cannot be achieved without discipline and consistency.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "You are capable of more than you know.",
+    "a": "Glenn Cunningham"
+  },
+  {
+    "q": "You must be the change you wish to see in the world.",
+    "a": "Mahatma Gandhi"
+  },
+  {
+    "q": "Even paused progress is part of the path.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "It's not who I am underneath, but what I do that defines me.",
+    "a": "Batman (The Dark Knight)"
+  },
+  {
+    "q": "The true measure of a hero is how they treat those who can do nothing for them.",
+    "a": "Clark Kent (Superman)"
+  },
+  {
+    "q": "If you want to achieve greatness, stop asking for permission.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "There is no elevator to success. You have to take the stairs.",
+    "a": "Zig Ziglar"
+  },
+  {
+    "q": "There are no limits to what you can accomplish, except the limits you place on your own thinking.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Great things never come from comfort zones.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are stronger than your fears.",
+    "a": "Sasuke Uchiha (Naruto)"
+  },
+  {
+    "q": "Education is education. We should learn everything and then choose which path to follow.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Success doesn’t just find you. You have to go out and get it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If you're waiting for a sign, this is it—start now.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Be not afraid of going slowly, be afraid only of standing still.",
+    "a": "Chinese Proverb"
+  },
+  {
+    "q": "If you can dream it, you can do it.",
+    "a": "Walt Disney"
+  },
+  {
+    "q": "The version of you you've dreamed about is real. Build it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Healing doesn’t mean the damage never existed. It means the damage no longer controls you.",
+    "a": "Akshay Dubey"
+  },
+  {
+    "q": "Purpose fuels perseverance.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Challenges are what make life interesting; overcoming them is what makes life meaningful.",
+    "a": "Joshua J. Marine"
+  },
+  {
+    "q": "What you practice in private, you’ll be rewarded for in public.",
+    "a": "Tony Robbins"
+  },
+  {
+    "q": "Your calm is your power.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "True strength is standing back up after falling.",
+    "a": "Rock Lee (Naruto)"
+  },
+  {
+    "q": "Don’t wait for opportunity. Create it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Forgetting is like a wound. The wound may heal, but it has already left a scar.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "There is no traffic jam on the extra mile.",
+    "a": "Roger Staubach"
+  },
+  {
+    "q": "I want to see the world. I want to see the future.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "You cannot change the direction of the wind, but you can adjust your sails.",
+    "a": "Jimmy Dean"
+  },
+  {
+    "q": "A strong heart is the key to overcoming any obstacle.",
+    "a": "Tanjiro Kamado (Demon Slayer)"
+  },
+  {
+    "q": "Some days, surviving is a form of success.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When you're aligned, the world adjusts.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The flower that blooms in adversity is the rarest and most beautiful of all.",
+    "a": "Mulan (Disney)"
+  },
+  {
+    "q": "The climb is part of the view.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You weren’t born to repeat, you were born to rise.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Keep showing up. Even when it’s hard. Especially when it’s hard.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You become unstoppable the moment you stop waiting for someone to save you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You can’t outrun your potential—but you can unlock it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "It’s not about speed—it’s about showing up daily.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Silence doesn’t mean nothing is happening. It means everything is being built in quiet.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "People with clear, written goals accomplish far more in a shorter period of time than people without them could ever imagine.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "Do what you have to do so you can do what you want to do.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "We don’t die for our friends; we live for them.",
+    "a": "Nico Robin (One Piece)"
+  },
+  {
+    "q": "If you don’t like something, change it. If you can’t change it, change your attitude.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "A person becomes strong when they have someone they want to protect.",
+    "a": "Haku (Naruto)"
+  },
+  {
+    "q": "Wherever there is a human being, there is an opportunity for kindness.",
+    "a": "Lucius Annaeus Seneca"
+  },
+  {
+    "q": "Set your goals high, and don't stop till you get there.",
+    "a": "Bo Jackson"
+  },
+  {
+    "q": "Dream big and dare to fail.",
+    "a": "Norman Vaughan"
+  },
+  {
+    "q": "Hard work makes luck unnecessary.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "True victory is overcoming yourself.",
+    "a": "Tanjiro Kamado (Demon Slayer)"
+  },
+  {
+    "q": "You have permission to be both a masterpiece and a work in progress.",
+    "a": "Sophia Bush"
+  },
+  {
+    "q": "The best way out is always through.",
+    "a": "Robert Frost"
+  },
+  {
+    "q": "Not feeling ready is a sign it’s time to begin.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+    "a": "A.A. Milne"
+  },
+  {
+    "q": "There is no shame in falling down. True shame is in not getting back up.",
+    "a": "Rock Lee (Naruto)"
+  },
+  {
+    "q": "Success is how high you bounce when you hit bottom.",
+    "a": "George S. Patton"
+  },
+  {
+    "q": "Don’t give up, the beginning is always the hardest.",
+    "a": "Natsu Dragneel (Fairy Tail)"
+  },
+  {
+    "q": "If you don’t fail, you’re not even trying.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Sometimes, the best way to solve your own problems is to help someone else.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Stay away from those people who try to disparage your ambitions.",
+    "a": "Mark Twain"
+  },
+  {
+    "q": "Success is liking yourself, liking what you do, and liking how you do it.",
+    "a": "Maya Angelou"
+  },
+  {
+    "q": "You don't die for your friends, you live for them.",
+    "a": "Erza Scarlet (Fairy Tail)"
+  },
+  {
+    "q": "Hope is the only thing stronger than fear.",
+    "a": "Suzaku Kururugi (Code Geass)"
+  },
+  {
+    "q": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "a": "Zig Ziglar"
+  },
+  {
+    "q": "If you let go of who you are, you become who you might be.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Great spirits have always encountered violent opposition from mediocre minds.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "Be stronger than your strongest excuse.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your life isn’t yours if you always care what others think.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "No one is you, and that is your superpower.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t stop dreaming just because you had a nightmare.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When you feel like giving up, remember why you started.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Become so rooted in yourself that no one’s absence or presence can disturb your peace.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Not all growth feels good—but all growth is good.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Let your hustle heal your doubt.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Excellence is not a skill. It is an attitude.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Never let a stumble in the road be the end of your journey.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Meditation is not evading reality but coming to terms with it.",
+    "a": "Thich Nhat Hanh"
+  },
+  {
+    "q": "We realize the importance of our voices only when we are silenced.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Each morning brings another chance to rewrite your story.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Work like you're the only one watching.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Your growth is a rebellion against who you used to be.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Not until we are lost do we begin to understand ourselves.",
+    "a": "Henry David Thoreau"
+  },
+  {
+    "q": "No one knows what the future holds, so live for today.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Don’t tell people your plans. Show them your results.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+    "a": "Eleanor Roosevelt"
+  },
+  {
+    "q": "Start where you fumbled. That’s your strongest point.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success isn’t overnight. It’s when every day you get a little better than the day before.",
+    "a": "Dwayne Johnson"
+  },
+  {
+    "q": "There is power in your pace, no matter how slow.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You can't sit around envying other people’s worlds. You have to go out and change your own.",
+    "a": "Shinichi Chiaki (Nodame Cantabile)"
+  },
+  {
+    "q": "Don’t adapt to the energy in the room. Influence the energy in the room.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A lesson you learned from pain is not easily forgotten.",
+    "a": "Holo (Spice and Wolf)"
+  },
+  {
+    "q": "Discipline is doing what needs to be done even when it’s not exciting.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "When you hit rock bottom, the only way is up.",
+    "a": "Shoyo Hinata (Haikyuu!!)"
+  },
+  {
+    "q": "To live is to suffer, to survive is to find meaning in the suffering.",
+    "a": "Pain (Naruto)"
+  },
+  {
+    "q": "The only way to do great work is to love what you do.",
+    "a": "Steve Jobs"
+  },
+  {
+    "q": "You can’t win without risk.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Adapt what is useful, reject what is useless, and add what is specifically your own.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Success means doing the best we can with what we have.",
+    "a": "Zig Ziglar"
+  },
+  {
+    "q": "There is no shortcut to becoming strong. Train hard, work hard.",
+    "a": "Kakashi Hatake (Naruto)"
+  },
+  {
+    "q": "You are capable of creating a life you love.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Virtue is not left to stand alone. He who practices it will have neighbors.",
+    "a": "Confucius"
+  },
+  {
+    "q": "It doesn’t matter where you are coming from. All that matters is where you are going.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The grind isn’t pretty, but it’s powerful.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "A person grows up when they’re able to overcome hardships.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "If you don’t take risks, you can’t create a future.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "Invest in the version of you that scares you a little.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Fear is a reaction. Courage is a decision.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "The path to greatness is paved with effort.",
+    "a": "Jiraiya (Naruto)"
+  },
+  {
+    "q": "Aim for the moon. If you miss, you may hit a star.",
+    "a": "W. Clement Stone"
+  },
+  {
+    "q": "Be fearless in the pursuit of what sets your soul on fire.",
+    "a": "Jennifer Lee"
+  },
+  {
+    "q": "Sometimes, the smallest spark can start a blazing fire.",
+    "a": "Natsu Dragneel (Fairy Tail)"
+  },
+  {
+    "q": "The real test is not how far you’ve gone, but how far you're willing to go from here.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You should enjoy the little detours. That’s where you find the important things.",
+    "a": "Ging Freecss (Hunter x Hunter)"
+  },
+  {
+    "q": "Sometimes we don’t need advice, we just need someone to believe in us.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Only those who dare to fail greatly can ever achieve greatly.",
+    "a": "Robert F. Kennedy"
+  },
+  {
+    "q": "Each time you fall is just another chance to rise stronger.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "If opportunity doesn’t knock, build a door.",
+    "a": "Milton Berle"
+  },
+  {
+    "q": "Don't confuse a season for a lifetime.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Do what you have to do, to do what you want to do.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "Quiet progress still changes the world.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Madness, as you know, is like gravity. All it takes is a little push.",
+    "a": "The Joker (The Dark Knight)"
+  },
+  {
+    "q": "Do it broken. Do it afraid. Just do it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "True strength is protecting those who cannot protect themselves.",
+    "a": "All Might (My Hero Academia)"
+  },
+  {
+    "q": "I found that nothing in life is worthwhile unless you take risks.",
+    "a": "Denzel Washington"
+  },
+  {
+    "q": "To make something special, you just have to believe it’s special.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "The climb may be tough, but the view from the top is worth every step.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Inhale confidence, exhale doubt.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Every great change begins with a brave decision.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes later becomes never. Do it now.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The extremists are afraid of books and pens, the power of education frightens them.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Your limitation—it’s only your imagination.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "a": "Albert Schweitzer"
+  },
+  {
+    "q": "Your power means nothing if you don’t control it.",
+    "a": "Vegeta (Dragon Ball Z)"
+  },
+  {
+    "q": "Power is not determined by your size, but the size of your heart and dreams.",
+    "a": "Luffy (One Piece)"
+  },
+  {
+    "q": "Your future is shaped by the things you do when no one’s watching.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "a": "Winston Churchill"
+  },
+  {
+    "q": "A goal properly set is halfway reached.",
+    "a": "Zig Ziglar"
+  },
+  {
+    "q": "Do or do not. There is no try.",
+    "a": "Yoda (Star Wars)"
+  },
+  {
+    "q": "Not all storms come to disrupt your life; some come to clear your path.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Let the quiet moments shape your loudest victories.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You cannot control what happens to you, but you can control your attitude toward what happens to you.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The only approval you need is your own.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Start where you are. Use what you have. Do what you can.",
+    "a": "Arthur Ashe"
+  },
+  {
+    "q": "You become what you believe.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "True courage is standing alone for what is right.",
+    "a": "Levi Ackerman (Attack on Titan)"
+  },
+  {
+    "q": "When we see men of a contrary character, we should turn inwards and examine ourselves.",
+    "a": "Confucius"
+  },
+  {
+    "q": "People’s lives don’t end when they die, it ends when they lose faith.",
+    "a": "Itachi Uchiha (Naruto)"
+  },
+  {
+    "q": "Make your life a mission, not an intermission.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The cautious seldom err.",
+    "a": "Confucius"
+  },
+  {
+    "q": "True strength is not just about power, but how you protect those you care about.",
+    "a": "Goku (Dragon Ball Z)"
+  },
+  {
+    "q": "Every storm ends—keep rowing.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Show up with grit when motivation goes quiet.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don't be afraid to be different. Be afraid to be the same as everyone else.",
+    "a": "Edward Elric (Fullmetal Alchemist: Brotherhood)"
+  },
+  {
+    "q": "The only time you fail is when you fall down and stay down.",
+    "a": "Stephen Richards"
+  },
+  {
+    "q": "True friends are the family you choose.",
+    "a": "Monkey D. Luffy (One Piece)"
+  },
+  {
+    "q": "The only impossible journey is the one you never begin.",
+    "a": "Tony Robbins"
+  },
+  {
+    "q": "One can never reach the summit if he does not begin his climb.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Push yourself, because no one else is going to do it for you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "We generate fears while we sit. We overcome them by action.",
+    "a": "Dr. Henry Link"
+  },
+  {
+    "q": "I won't run away anymore… I won't go back on my word… that is my ninja way!",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "Let your purpose be louder than your fear.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "You may have to fight a battle more than once to win it.",
+    "a": "Margaret Thatcher"
+  },
+  {
+    "q": "Believe in yourself and the world will follow.",
+    "a": "Naruto Uzumaki (Naruto)"
+  },
+  {
+    "q": "Hard choices build easy lives. Easy choices build hard lives.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don’t be afraid. Be focused. Be determined. Be hopeful. Be empowered.",
+    "a": "Malala Yousafzai"
+  },
+  {
+    "q": "Success is a journey, not a destination.",
+    "a": "Arthur Ashe"
+  },
+  {
+    "q": "You’re the hero in your story. Act like it.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The man who moves a mountain begins by carrying away small stones.",
+    "a": "Confucius"
+  },
+  {
+    "q": "Every minute you spend in planning saves 10 minutes in execution; this gives you a 1,000 percent return on energy!",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "The purpose of our lives is to be happy.",
+    "a": "Dalai Lama"
+  },
+  {
+    "q": "Failure is the greatest teacher; embrace it.",
+    "a": "Jiraiya (Naruto)"
+  },
+  {
+    "q": "The night is darkest just before the dawn.",
+    "a": "Thomas Fuller"
+  },
+  {
+    "q": "If you only do what you can do, you will never be more than you are now.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Sometimes we have to look beyond what we want and do what’s best.",
+    "a": "Piccolo (Dragon Ball Z)"
+  },
+  {
+    "q": "Happiness is not something ready made. It comes from your own actions.",
+    "a": "Dalai Lama"
+  },
+  {
+    "q": "Only those who risk going too far can possibly find out how far one can go.",
+    "a": "T.S. Eliot"
+  },
+  {
+    "q": "In the midst of winter, I found there was within me an invincible summer.",
+    "a": "Albert Camus"
+  },
+  {
+    "q": "Patience is bitter, but its fruit is sweet.",
+    "a": "Aristotle"
+  },
+  {
+    "q": "Patience is not the ability to wait, but the ability to keep a good attitude while waiting.",
+    "a": "Joyce Meyer"
+  },
+  {
+    "q": "The moment you’re ready to quit is usually the moment right before the miracle happens.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Don't wait for confidence—act, and it will follow.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Think like a queen. A queen is not afraid to fail.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "In this world, wherever there is light — there are also shadows.",
+    "a": "Madara Uchiha (Naruto)"
+  },
+  {
+    "q": "Create the highest, grandest vision possible for your life, because you become what you believe.",
+    "a": "Oprah Winfrey"
+  },
+  {
+    "q": "Empty your mind, be formless, shapeless, like water.",
+    "a": "Bruce Lee"
+  },
+  {
+    "q": "Discipline yourself to do what you know you need to do to do to become the person you want to be.",
+    "a": "Brian Tracy"
+  },
+  {
+    "q": "You are too concerned with what was and what will be.",
+    "a": "Master Oogway"
+  },
+  {
+    "q": "Those who fly alone have the strongest wings.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Everything counts. Even the smallest effort adds up.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "The habits you build today are the foundation of tomorrow.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes, losing balance for love is part of living a balanced life.",
+    "a": "Elizabeth Gilbert"
+  },
+  {
+    "q": "Opportunities don’t happen, you create them.",
+    "a": "Chris Grosser"
+  },
+  {
+    "q": "You didn’t wake up today to be average.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Stand tall even when the world tries to push you down.",
+    "a": "Izuku Midoriya (My Hero Academia)"
+  },
+  {
+    "q": "You get what you work for, not what you wish for.",
+    "a": "Annie Dillard (Referenced in motivational talks)"
+  },
+  {
+    "q": "The mind is everything. What you think you become.",
+    "a": "Buddha"
+  },
+  {
+    "q": "The secret of getting ahead is getting started.",
+    "a": "Mark Twain"
+  },
+  {
+    "q": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+    "a": "Albert Einstein"
+  },
+  {
+    "q": "Let your vision scare and guide you.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Success usually comes to those who are too busy to be looking for it.",
+    "a": "Henry David Thoreau"
+  },
+  {
+    "q": "The ones who keep going, even when no one claps, are the ones who win.",
+    "a": "Anonymous"
+  },
+  {
+    "q": "Sometimes you must hurt in order to grow; you must fail in order to know; loss is gain; and the greatest lesson is learning to let go.",
+    "a": "Goku (Dragon Ball)"
+  },
+  {
+    "q": "Without feelings of respect, what is there to distinguish men from beasts?",
+    "a": "Confucius"
+  },
+  {
+    "q": "Either you run the day or the day runs you.",
+    "a": "Jim Rohn"
   }
 ]
