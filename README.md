@@ -110,6 +110,13 @@ Keep track of notable changes and new features here. For detailed future plans a
 
 ---
 
+## 0.3.3 — May 27, 2025
+
+- Auto-pause countdown sounds when browser tab loses focus and resume on focus.
+- Added manual sound toggle button to mute/unmute countdown sounds.
+- Refactored sound management to respect manual mute state and improve UX.
+- Styled sound toggle button to fit light/dark themes.
+
 ## 0.3.2 — May 25, 2025
 
 - Added a script to clean and reshuffle quotes (Quote Count: 1119)
