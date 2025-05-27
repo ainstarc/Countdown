@@ -104,15 +104,47 @@ If quotes cannot be loaded, a fallback quote is shown:
 
 ---
 
-## 💡 Future Ideas
+# 📝 Changelog
 
-- 🎯 Multiple Countdown Events: Save and switch between different dates.
-- 🎨 User-Defined Themes: UI for picking colors.
-- 📅 Event Presets: Quick setup for holidays, birthdays, etc.
-- 💬 Enhanced Quote Customization: Upload quote files or select categories.
-- 🔔 Desktop Notifications: Alert when countdown reaches zero.
-- 🌀 More Animation Styles: Offer different types for digits and quotes.
-- 🌍 Internationalization (i18n): Support multiple languages.
+Keep track of notable changes and new features here. For detailed future plans and bug tracking, please refer to the [GitHub Issues](https://github.com/ainstarc/countdown/issues).
+
+---
+
+## 0.3.2 — May 25, 2025
+
+- Added a script to clean and reshuffle quotes (Quote Count: 1119)
+- Updated cache version and added `quotes.json` to cached files
+- Introduced quote functionality and enhanced UI/UX of the timer
+
+---
+
+## 0.3.1 — May 24, 2025
+
+- Fixed countdown animation to ensure correct digit count ([#3](https://github.com/ainstarc/Countdown/issues/2))
+
+---
+
+## 0.3.0 — May 23, 2025
+
+- Improved audio experience with refined sound effects
+
+---
+
+## 0.2.0 — May 17, 2025
+
+- Initial countdown start functionality
+- Modified color scheme and updated title
+- Animated countdown digits at the digit level for smooth transitions
+- Improved responsive grid layout and enhanced theme toggle
+- Responsive container and time-box sizing enhancements
+- Added full PWA offline support and responsiveness improvements
+- Enhanced accessibility features
+
+---
+
+## 0.1.0 — Initial Release Jul 28, 2024
+
+- Project setup with a basic countdown timer
 
 ---
 

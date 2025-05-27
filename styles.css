@@ -253,6 +253,44 @@ body.light-mode .floating-toggle:hover {
   color: #388e3c; /* Or another hover accent */
 }
 
+/* New wrapper for floating toggles */
+.floating-toggles-wrapper {
+  position: fixed;
+  top: 2vw;
+  right: 2vw;
+  display: flex;
+  gap: 0.7em;
+  z-index: 101;
+}
+
+.floating-toggle,
+#toggle-sound {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.7em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Remove individual positioning for these buttons */
+  position: static;
+  margin: 0;
+}
+
+@media (max-width: 480px) {
+  .floating-toggles-wrapper {
+    top: 10px;
+    right: 10px;
+    gap: 0.4em;
+  }
+  .floating-toggle,
+  #toggle-sound {
+    width: 40px;
+    height: 40px;
+    font-size: 1.3em;
+  }
+}
+
 /* Theme Transition Animation */
 body.theme-transition {
   position: relative;
@@ -487,4 +525,40 @@ body.theme-transition::after {
     --accent-color
   ); /* Uses the existing accent color for theme consistency */
   text-transform: uppercase; /* Optional: if you want highlighted words to be uppercase */
+}
+
+#toggle-sound {
+  position: fixed;
+  top: 2vw;
+  left: 2vw;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.7em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.85);
+  border: 2px solid rgba(0, 0, 0, 0.07); /* Subtle border for contrast */
+  padding: 0.85rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  transition: background-color 0.3s, transform 0.2s, border-color 0.3s;
+  z-index: 1000;
+}
+
+body.light-mode #toggle-sound {
+  background-color: rgba(0, 0, 0, 0.04);
+  color: #333;
+  border-color: rgba(0, 0, 0, 0.12);
+}
+
+#toggle-sound:hover {
+  background-color: rgba(0, 0, 0, 0.13);
+  transform: scale(1.08);
+  border-color: var(--accent-color, #ffe066);
+}
+
+#toggle-sound:active {
+  transform: scale(0.95);
 }

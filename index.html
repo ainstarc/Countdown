@@ -17,14 +17,17 @@
     <link rel="manifest" href="manifest.json" />
   </head>
   <body>
-    <button
-      id="toggle-mode"
-      class="floating-toggle"
-      title="Toggle dark/light mode"
-      aria-label="Toggle dark or light mode"
-    >
-      🌙
-    </button>
+    <div class="floating-toggles-wrapper">
+      <button id="toggle-sound" title="Toggle Sound">🔊</button>
+      <button
+        id="toggle-mode"
+        class="floating-toggle"
+        title="Toggle dark/light mode"
+        aria-label="Toggle dark or light mode"
+      >
+        🌙
+      </button>
+    </div>
     <div class="container">
       <!-- <h1>TickTock, Quote O’Clock</h1> -->
       <div id="quote-section">
@@ -64,6 +67,6 @@
       </div>
     </div>
 
-    <script src="script.js"></script>
+    <script type="module" src="main.js"></script>
   </body>
 </html>
