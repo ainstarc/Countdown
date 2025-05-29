@@ -15,7 +15,7 @@ Keep track of notable changes and new features here. For detailed future plans a
 ## v0.3.4 — May 29, 2025
 
 - **feat(ui):** Improve consistency of sound and theme toggle button styling  
-  _by [harishbabu2007](https://github.com/harishbabu2007) ([#13](https://github.com/ainstarc/Countdown/issues/13), PR [#15](https://github.com/ainstarc/Countdown/pull/15))_
+  _by [harishbabu2007](https://github.com/harishbabu2007) ([#13](https://github.com/ainstarc/Countdown/issues/13) → PR [#15](https://github.com/ainstarc/Countdown/pull/15))_
 - **feat:** Added Tailwind CSS CDN and ensured state persistence with localStorage and icon update  
   _by [ShivaKrishnaReddyBurra](https://github.com/ShivaKrishnaReddyBurra) ([#10](https://github.com/ainstarc/Countdown/issues/10) → PR [#12](https://github.com/ainstarc/Countdown/pull/12))_
 

@@ -113,9 +113,9 @@ See [CHANGELOG.md](CHANGELOG.md) for the full list of changes and release histor
 ## 🖼️ Preview
 
 - Light Theme  
-  ![Screenshot of Countdown Timer](preview-light.png)
+  ![Screenshot of Countdown Timer](./preview/preview-light.png)
 - Dark Theme  
-  ![Screenshot of Countdown Timer](preview-dark.png)
+  ![Screenshot of Countdown Timer](./preview/preview-dark.png)
 
 ---
 
