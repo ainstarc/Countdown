@@ -1,68 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TickTock, Quote O’Clock</title>
+    <meta
+      name="description"
+      content="TickTock, Quote O’Clock: A stylish, animated countdown timer with inspirational quotes, theme toggle, and responsive design."
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⏳</text></svg>"
+    />
+    <link rel="manifest" href="manifest.json" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TickTock, Quote O’Clock</title>
-  <meta name="description"
-    content="TickTock, Quote O’Clock: A stylish, animated countdown timer with inspirational quotes, theme toggle, and responsive design." />
-  <link rel="stylesheet" href="styles.css" />
-  <link rel="icon" type="image/svg+xml"
-    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⏳</text></svg>" />
-  <link rel="manifest" href="manifest.json" />
-  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-</head>
+  <body>
+    <div class="top-buttons-container">
+      <button
+        id="toggle-sound"
+        class="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 text-yellow-400 text-2xl shadow-lg hover:bg-gray-700 transition-all duration-300"
+      >
+        🔊
+      </button>
+      <button
+        id="toggle-mode"
+        class="floating-toggle"
+        title="Toggle dark/light mode"
+        aria-label="Toggle dark or light mode"
+      >
+        🌙
+      </button>
+    </div>
+    <p></p>
+    <div class="container">
+      <!-- <h1>TickTock, Quote O’Clock</h1> -->
+      <div id="quote-section">
+        <div id="quote-box">
+          <blockquote id="quote">You are Inevitable</blockquote>
+          <cite id="author"></cite>
+        </div>
+      </div>
 
-<body>
-  <div class="floating-toggles-wrapper">
-    <button id="toggle-sound"
-      class="flex items-center justify-center w-12 h-12 rounded-full bg-gray-800 text-yellow-400 text-2xl shadow-lg hover:bg-gray-700  transition-all duration-300">🔊</button>
-    <button id="toggle-mode" class="floating-toggle" title="Toggle dark/light mode"
-      aria-label="Toggle dark or light mode">
-      🌙
-    </button>
-  </div>
-  <div class="container">
-    <!-- <h1>TickTock, Quote O’Clock</h1> -->
-    <div id="quote-section">
-      <div id="quote-box">
-        <blockquote id="quote">You are Inevitable</blockquote>
-        <cite id="author"></cite>
+      <div id="timer-section">
+        <div id="countdown" aria-live="polite">
+          <div class="time-unit">
+            <div class="digits-container">
+              <span id="days" class="digits"></span>
+            </div>
+            <span class="label">Days</span>
+          </div>
+          <div class="time-unit">
+            <div class="digits-container">
+              <span id="hours" class="digits"></span>
+            </div>
+            <span class="label">Hours</span>
+          </div>
+          <div class="time-unit">
+            <div class="digits-container">
+              <span id="minutes" class="digits"></span>
+            </div>
+            <span class="label">Minutes</span>
+          </div>
+          <div class="time-unit">
+            <div class="digits-container">
+              <span id="seconds" class="digits"></span>
+            </div>
+            <span class="label">Seconds</span>
+          </div>
+        </div>
       </div>
     </div>
 
-    <div id="timer-section">
-      <div id="countdown" aria-live="polite">
-        <div class="time-unit">
-          <div class="digits-container">
-            <span id="days" class="digits"></span>
-          </div>
-          <span class="label">Days</span>
-        </div>
-        <div class="time-unit">
-          <div class="digits-container">
-            <span id="hours" class="digits"></span>
-          </div>
-          <span class="label">Hours</span>
-        </div>
-        <div class="time-unit">
-          <div class="digits-container">
-            <span id="minutes" class="digits"></span>
-          </div>
-          <span class="label">Minutes</span>
-        </div>
-        <div class="time-unit">
-          <div class="digits-container">
-            <span id="seconds" class="digits"></span>
-          </div>
-          <span class="label">Seconds</span>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <script type="module" src="main.js"></script>
-</body>
-
+    <script type="module" src="main.js"></script>
+  </body>
 </html>

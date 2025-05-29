@@ -20,6 +20,7 @@
 body {
   font-family: "Orbitron", Arial, sans-serif;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh; /* Ensure body takes full viewport height */
@@ -216,10 +217,10 @@ body.theme-pink {
 
 /* Floating Toggle Button */
 .floating-toggle {
-  position: fixed;
+  /* position: fixed; */
   border-radius: 50%; /* Makes it perfectly round if width and height are equal */
-  top: 2vw;
-  right: 2vw;
+  /* top: 2vw;
+  right: 2vw; */
   z-index: 100;
   width: 48px;
   height: 48px;
@@ -274,7 +275,7 @@ body.light-mode .floating-toggle:hover {
   justify-content: center;
   /* Remove individual positioning for these buttons */
   position: static;
-  margin: 0;
+  margin: 10px;
 }
 
 @media (max-width: 480px) {
@@ -528,9 +529,9 @@ body.theme-transition::after {
 }
 
 #toggle-sound {
-  position: fixed;
-  top: 2vw;
-  left: 2vw;
+  /* position: fixed; */
+  /* top: 2vw;
+  left: 2vw; */
   width: 48px;
   height: 48px;
   border-radius: 50%;
@@ -562,3 +563,12 @@ body.theme-transition::after {
 #toggle-sound:active {
   transform: scale(0.95); 
 } */
+
+.top-buttons-container {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-end;
+  width: 100vw;
+  position: absolute;
+  top: 10px;
+}
