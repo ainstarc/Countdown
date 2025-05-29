@@ -538,7 +538,7 @@ body.theme-transition::after {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(255, 255, 255, 0.85);
+  /* background-color: rgba(255, 255, 255, 0.85); */
   border: 2px solid rgba(0, 0, 0, 0.07); /* Subtle border for contrast */
   padding: 0.85rem;
   cursor: pointer;
@@ -547,7 +547,7 @@ body.theme-transition::after {
   z-index: 1000;
 }
 
-body.light-mode #toggle-sound {
+/* body.light-mode #toggle-sound {
   background-color: rgba(0, 0, 0, 0.04);
   color: #333;
   border-color: rgba(0, 0, 0, 0.12);
@@ -560,5 +560,5 @@ body.light-mode #toggle-sound {
 }
 
 #toggle-sound:active {
-  transform: scale(0.95);
-}
+  transform: scale(0.95); 
+} */
