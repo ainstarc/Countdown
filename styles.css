@@ -2,13 +2,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap");
 
 :root {
-  --toggle-x: 1.2rem; /* Customize as needed */
-  --toggle-y: 1.2rem; /* Customize as needed */
-  --theme-transition-duration: 0.3s; /* For theme-related transitions */
-  --accent-color-default: #ffe066; /* Default accent for dark mode / general use */
-  --accent-color: var(
-    --accent-color-default
-  ); /* Actual accent color to be used */
+  --toggle-x: 1.2rem;
+  --toggle-y: 1.2rem;
+  --theme-transition-duration: 0.3s;
+  --accent-color-default: #ffe066;
+  --accent-color: var(--accent-color-default);
 }
 
 *,
@@ -23,11 +21,11 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Ensure body takes full viewport height */
+  height: 100vh;
   margin: 0;
   background: linear-gradient(135deg, #0f2027, #2c5364, #36454f);
-  color: #e0e0e0; /* Default light text color for dark background */
-  overflow: hidden; /* Prevent body from scrolling */
+  color: #e0e0e0;
+  overflow: hidden;
   transition: background 1.5s, color 1.5s;
 }
 
@@ -39,15 +37,11 @@ body {
   border-radius: 20px;
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   width: 75vw;
-  max-width: 1500px; /* Cap maximum width */
+  max-width: 1500px;
   min-width: 260px;
-  height: 90vh; /* Define a height for flex children to proportion against */
-  max-height: 850px; /* Cap maximum height */
-  font-size: clamp(
-    1rem,
-    2vw,
-    1.3rem
-  ); /* Slightly increased max base font size */
+  height: 90vh;
+  max-height: 850px;
+  font-size: clamp(1rem, 2vw, 1.3rem);
   transition: background 1.5s, color 1.5s;
 }
 
@@ -58,7 +52,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  overflow-y: auto; /* Scroll for long quotes */
+  /* overflow-y: auto;  */
   min-height: 0; /* Crucial for flex children that might overflow */
   padding: 1em 0.5em; /* Added horizontal padding */
   text-align: center;
@@ -278,6 +272,18 @@ body.light-mode .floating-toggle:hover {
   margin: 10px;
 }
 
+.toggle-corner {
+  position: fixed;
+  top: 2vw;
+  z-index: 101;
+}
+.toggle-corner-left {
+  left: 2vw;
+}
+.toggle-corner-right {
+  right: 2vw;
+}
+
 @media (max-width: 480px) {
   .floating-toggles-wrapper {
     top: 10px;
@@ -289,6 +295,16 @@ body.light-mode .floating-toggle:hover {
     width: 40px;
     height: 40px;
     font-size: 1.3em;
+  }
+
+  .toggle-corner {
+    top: 10px;
+  }
+  .toggle-corner-left {
+    left: 10px;
+  }
+  .toggle-corner-right {
+    right: 10px;
   }
 }
 
@@ -525,7 +541,7 @@ body.theme-transition::after {
   color: var(
     --accent-color
   ); /* Uses the existing accent color for theme consistency */
-  text-transform: uppercase; /* Optional: if you want highlighted words to be uppercase */
+  text-transform: uppercase;
 }
 
 #toggle-sound {
@@ -539,38 +555,10 @@ body.theme-transition::after {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background-color: rgba(255, 255, 255, 0.85); */
   border: 2px solid rgba(0, 0, 0, 0.07); /* Subtle border for contrast */
   padding: 0.85rem;
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
   transition: background-color 0.3s, transform 0.2s, border-color 0.3s;
   z-index: 1000;
-}
-
-/* body.light-mode #toggle-sound {
-  background-color: rgba(0, 0, 0, 0.04);
-  color: #333;
-  border-color: rgba(0, 0, 0, 0.12);
-}
-
-#toggle-sound:hover {
-  background-color: rgba(0, 0, 0, 0.13);
-  transform: scale(1.08);
-  border-color: var(--accent-color, #ffe066);
-}
-
-#toggle-sound:active {
-  transform: scale(0.95); 
-} */
-
-.top-buttons-container {
-  position: absolute;
-  width: 100%;
-  top: 10px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 0 20px;
-  box-sizing: border-box;
 }
