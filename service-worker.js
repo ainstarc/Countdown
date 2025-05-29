@@ -1,7 +1,7 @@
 // Defines the cache name for this version of the service worker.
 // Incrementing the version (e.g., "countdown-cache-v2") will trigger the 'activate' event
 // for new service workers, allowing old caches to be cleared.
-const CACHE_NAME = "countdown-cache-v0.5.1";
+const CACHE_NAME = "countdown-cache-v0.3.5";
 
 // A list of essential files to be cached for offline access.
 const FILES_TO_CACHE = [
@@ -13,12 +13,14 @@ const FILES_TO_CACHE = [
   "./sounds/hour-change.mp3", // Audio asset.
   "./sounds/minute-change.mp3", // Audio asset.
   "./sounds/second-tick.mp3", // Audio asset.
-  "./quotes.json" // JSON file containing quotes.
+  "./quotes.json", // JSON file containing quotes.
 ];
 
 // 'install' event: Fired when the service worker is first registered or a new version is detected.
 self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(FILES_TO_CACHE)));
+  event.waitUntil(
+    caches.open(CACHE_NAME).then((cache) => cache.addAll(FILES_TO_CACHE))
+  );
   self.skipWaiting(); // Forces the waiting service worker to become the active service worker.
 });
 
@@ -42,7 +44,8 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   event.respondWith(
     // Try to find the request in the cache first.
-    caches.match(event.request).then((response) => response || fetch(event.request) // If not in cache, fetch from the network.
+    caches.match(event.request).then(
+      (response) => response || fetch(event.request) // If not in cache, fetch from the network.
     )
   );
 });
