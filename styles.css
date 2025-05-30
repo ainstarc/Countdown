@@ -80,6 +80,7 @@ h1 {
   margin: 1em auto; /* Adjusted margin */
   max-width: 95%; /* Allow it to use more width within its section */
   width: 100%;
+  overflow: hidden; /* Hide scrollbars */
 }
 
 #quote {
@@ -93,6 +94,7 @@ h1 {
   margin-bottom: 0.5em; /* Reduced margin */
   color: #f0f0f0;
   line-height: 1.35; /* Slightly adjusted line height */
+  overflow: hidden; /* Hide scrollbars */
 }
 
 #author {
@@ -100,6 +102,7 @@ h1 {
   font-size: clamp(0.8em, 2.2vh, 1.3em);
   color: #b0b0b0;
   margin-top: 0.3em; /* Reduced margin */
+  overflow: hidden; /* Hide scrollbars */
 }
 
 /* Countdown Timer Styles */
