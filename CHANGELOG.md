@@ -4,6 +4,13 @@ Keep track of notable changes and new features here. For detailed future plans a
 
 ---
 
+## v0.3.6 - May 30, 2025
+
+- **fix:** Occasional Scrollbar appearing next to the quote section
+  _by [harishbabu2007](https://github.com/harishbabu2007) ([#6](https://github.com/ainstarc/Countdown/issues/6) → PR [#17](https://github.com/ainstarc/Countdown/pull/17))_
+
+---
+
 ## v0.3.5 — May 29, 2025
 
 - **fix:** Update paths and toggle layout in HTML/README
